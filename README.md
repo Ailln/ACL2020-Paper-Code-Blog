@@ -1,10 +1,10 @@
 # ACL2020-PCB
 
-ACL2020: Paper Code Blog.
+[ACL2020](https://acl2020.org/): Paper Code Blog.
 
 ## Accept List
 
-ToDo...
+⚠️ Notification of acceptance (long & short papers): April 3, 2020.
 
 ## Reject List
 
