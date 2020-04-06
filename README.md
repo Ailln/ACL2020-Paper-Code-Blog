@@ -6,7 +6,7 @@
 
 ⚠️ Notification of acceptance (long & short papers): April 3, 2020.
 
-### CommonsenseStoryGen
+### KNIVES
 
 - Paper: KNIVES: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation
 
