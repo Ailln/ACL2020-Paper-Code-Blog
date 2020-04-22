@@ -6,27 +6,49 @@
 
 ⚠️ Notification of acceptance (long & short papers): April 3, 2020.
 
-### KNIVES
+### 对话
 
-- Paper: KNIVES: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation
+- KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation [\[Paper\]](https://arxiv.org/abs/2004.04100) [\[Code\]](https://github.com/thu-coai/KdConv) [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1133416917)
+ 
+- Multi-Agent Task-Oriented Dialog Policy Learning with Role-aware Reward Decomposition [\[Paper\]](https://arxiv.org/abs/2004.03809)
 
-### CrossWOZ
+- ConvLab-2: An Open-Source Toolkit for Building, Evaluating, and Diagnosing Dialogue Systems [\[Paper\]](https://arxiv.org/abs/2002.04793)
 
-- Paper: [CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset](https://arxiv.org/abs/2002.11893)
-- Code: [CrossWOZ](https://github.com/thu-coai/CrossWOZ)
+- CrossWOZ: A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset [\[Paper\]](https://arxiv.org/abs/2002.11893) [\[Code\]](https://github.com/thu-coai/CrossWOZ)
 
-### CommonsenseStoryGen
+- PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable [\[Paper\]](https://arxiv.org/abs/1910.07931)
 
-- Paper: [A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation](https://arxiv.org/abs/2001.05139)
-- Code: [CommonsenseStoryGen](https://github.com/JianGuanTHU/CommonsenseStoryGen)
+- dynamic induction networks for few-shot text classification [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1134813765)
+
+- Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1134813765)
+
+- Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight [\[Paper\]](https://arxiv.org/abs/2004.02594)
+
+### 阅读理解
+
+- A Self-training Method for Machine Reading Comprehension with Soft Evidence Extraction
+
+### 文本生成
+
+- ScriptWriter: Narrative-Guided Script Generation [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1133999732)
+
+- A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation [\[Paper\]](https://arxiv.org/abs/2001.05139) [\[Code\]](https://github.com/JianGuanTHU/CommonsenseStoryGen)
+
+- Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders [\[Paper\]](https://arxiv.org/abs/1911.03882) [\[Code\]](https://github.com/WHUIR/PPVAE)
+
+### 关系抽取
+
+- A Novel Hierarchical Binary Tagging Framework for Relational Triple Extraction [\[Paper\]](https://arxiv.org/abs/1909.03227) [\[Code\]](https://github.com/weizhepei/HBT) [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1141621197)
+
+### 语音识别
+
+- Modeling Code-Switch Languages Using Bilingual Parallel Corpus [\[Blog\]](https://www.zhihu.com/question/385259014/answer/1169746686)
 
 ## 2 Reject List
 
-### BP-Transformer
+未被接受并不表面工作没有意义，也可能是不幸运！
 
-- Paper: [BP-Transformer: Modelling Long-Range Context via Binary Partitioning](https://arxiv.org/abs/1911.04070)
-- Code: [BPT](https://github.com/yzh119/BPT)
-- Blog: [ACL 2020 审稿结果已出，如何看待其审稿质量与结果？ - 叶子豪的回答 - 知乎](https://www.zhihu.com/question/371534652/answer/1016231768)
+- BP-Transformer: Modelling Long-Range Context via Binary Partitioning [\[Paper\]](https://arxiv.org/abs/1911.04070) [\[Code\]](https://github.com/yzh119/BPT) [\[Blog\]](https://www.zhihu.com/question/371534652/answer/1016231768)
 
 ## 3 Discussion
 
