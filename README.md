@@ -2,7 +2,7 @@
 
 ACL2020 的论文、代码和博客。
 
-> 会议完整论文集会在【2020年6月19日】放出来，下方这些论文整理自知乎和 GitHub。
+> 会议完整论文集会在【2020年6月19日】放出来，下方论文整理自知乎、Arxiv 和 GitHub。
 
 ## 1 接受的论文列表
 
@@ -73,3 +73,4 @@ ACL2020 的论文、代码和博客。
 - [ACL 2020程序委员会博客（中文版）](https://github.com/ymcui/ACL2020-PC-Blogs-Chinese)
 - [如何看待ACL 2020录用结果？](https://www.zhihu.com/question/384287944)
 - [ACL 2020有哪些值得关注的论文？](https://www.zhihu.com/question/385259014)
+- [ACL2020论文精选](https://zhuanlan.zhihu.com/p/135204349)
