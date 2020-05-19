@@ -1,0 +1,780 @@
+index,title,authors,type
+1,2kenize: Tying Subword Sequences for Chinese Script Conversion,Pranav A and Isabelle Augenstein,long
+2,A Batch Normalized Inference Network Keeps the KL Vanishing Away,"Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",long
+3,A Call for More Rigor in Unsupervised Cross-lingual Learning,"Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre",long
+4,A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks,"Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",long
+5,A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking,"Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",long
+6,A Corpus for Large-Scale Phonetic Typology,"Elizabeth Salesky, Eleanor Chodroff, Tiago Pimentel, Matthew Wiesner, Ryan Cotterell, Alan W Black and Jason Eisner",long
+7,A Formal Hierarchy of RNN Architectures,"William Merrill, Gail Weiss, Yoav Goldberg, Roy Schwartz, Noah A. Smith and Eran Yahav",long
+8,A Generate-and-Rank Framework with Semantic Type Regularization for Biomedical Concept Normalization,"Dongfang Xu, Zeyu Zhang and Steven Bethard",long
+9,A Generative Model for Joint Natural Language Understanding and Generation,"Bo-Hsiang Tseng, Jianpeng Cheng, Yimai Fang and David Vandyke",long
+10,A Girl Has A Name: Detecting Authorship Obfuscation,"Asad Mahmood, Zubair Shafiq and Padmini Srinivasan",long
+11,A Graph Auto-encoder Model of Derivational Morphology,"Valentin Hofmann, Hinrich Schütze and Janet Pierrehumbert",long
+12,A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction,"Shuo Ren, Shujie Liu, Ming Zhou and Shuai Ma",long
+13,A Joint Model for Document Segmentation and Segment Labeling,"Joe Barrow, Rajiv Jain, Vlad Morariu, Varun Manjunatha, Douglas Oard and Philip Resnik",long
+14,A Joint Neural Model for Information Extraction with Global Features,"Ying Lin, Heng Ji, Fei Huang and Lingfei Wu",long
+15,A Methodology for Creating Question Answering Corpora Using Inverse Data Annotation,"Jan Deriu, Katsiaryna Mlynchyk, Philippe Schläpfer, Alvaro Rodrigo, Dirk von Grünigen, Nicolas Kaiser, Kurt Stockinger, Eneko Agirre and Mark Cieliebak",long
+16,A Mixture of h − 1 Heads is Better than h Heads,"Hao Peng, Roy Schwartz, Dianqi Li and Noah A. Smith",long
+17,A Monolingual Approach to Contextualized Word Embeddings for Mid-Resource Languages,"Pedro Javier Ortiz Suárez, Laurent Romary and Benoît Sagot",long
+18,A Multitask Learning Approach for Diacritic Restoration,"Sawsan Alqahtani, Ajay Mishra and Mona Diab",long
+19,A Novel Cascade Binary Tagging Framework for Relational Triple Extraction,"Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian and Yi Chang",long
+20,A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation,"Yongjing Yin, Fandong Meng, Jinsong Su, Chulun Zhou, Zhengyuan Yang, Jie Zhou and Jiebo Luo",long
+21,A Prioritization Model for Suicidality Risk Assessment,"Han-Chin Shing, Philip Resnik and Douglas Oard",long
+22,A Recipe for Creating Multimodal Aligned Datasets for Sequential Tasks,"Angela Lin, Sudha Rao, Asli Celikyilmaz, Elnaz Nouri, Chris Brockett, Debadeepta Dey and Bill Dolan",long
+23,A Reinforced Generation of Adversarial Examples for Neural Machine Translation,"Wei Zou, Shujian Huang, Jun Xie, Xinyu Dai and Jiajun Chen",long
+24,A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction,"Yilin Niu, Fangkai Jiao, Mantong Zhou, Ting Yao, Jingfang Xu and Minlie Huang",long
+25,A Span-based Linearization for Constituent Trees,"Yang Wei, Yuanbin Wu and Man Lan",long
+26,A Study of Non-autoregressive Model for Sequence Generation,"Yi Ren, Jinglin Liu, Xu Tan, Zhou Zhao, Sheng Zhao and Tie-Yan Liu",long
+27,A Systematic Assessment of Syntactic Generalization in Neural Language Models,"Jennifer Hu, Jon Gauthier, Peng Qian, Ethan Wilcox and Roger Levy",long
+28,A Tale of Two Perplexities: Sensitivity of Neural Language Models to Lexical Retrieval Deficits in Dementia of the Alzheimer’s Type,Trevor Cohen and Serguei Pakhomov,long
+29,A Top-down Neural Architecture towards Text-level Parsing of Discourse Rhetorical Structure,"Longyin Zhang, Yuqing Xing, Fang Kong, Peifeng Li and Guodong Zhou",long
+30,A Unified MRC Framework for Named Entity Recognition,"Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li",long
+31,Adaptive Compression of Word Embeddings,"Yeachan Kim, Kang-Min Kim and SangKeun Lee",long
+32,Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation,"Arya D. McCarthy, Xian Li, Jiatao Gu and Ning Dong",long
+33,AdvAug: Robust Adversarial Augmentation for Neural Machine Translation,"Yong Cheng, Lu Jiang, Wolfgang Macherey and Jacob Eisenstein",long
+34,Adversarial and Domain-Aware BERT for Cross-Domain Sentiment Analysis,"Chunning Du, Haifeng Sun, Jingyu Wang, Qi Qi and Jianxin Liao",long
+35,Adversarial NLI: A New Benchmark for Natural Language Understanding,"Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston and Douwe Kiela",long
+36,Agreement Prediction of Arguments in Cyber Argumentation for Detecting Stance Polarity and Intensity,"Joseph Sirrianni, Xiaoqing Liu and Douglas Adams",long
+37,Aligned Dual Channel Graph Convolutional Network for Visual Question Answering,"Qingbao Huang, Jielong Wei, Yi Cai, Changmeng Zheng, Junying Chen, Ho-fung Leung and Qing Li",long
+38,"Amalgamation of protein sequence, structure and textual information for improving protein-protein interaction identification",Pratik Dutta and Sriparna Saha,long
+39,AMR Parsing via Graph-Sequence Iterative Inference,Deng Cai and Wai Lam,long
+40,AMR Parsing with Latent Structural Information,"Qiji Zhou, Yue Zhang, Donghong Ji and Hao Tang",long
+41,An analysis of the utility of explicit negative examples to improve the syntactic abilities of neural language models,Hiroshi Noji and Hiroya Takamura,long
+42,An Effective Transition-based Model for Discontinuous NER,"Xiang Dai, Sarvnaz Karimi, Ben Hachey and Cecile Paris",long
+43,An Effectiveness Metric for Ordinal Classification: Formal Properties and Experimental Results,"Enrique Amigo, Julio Gonzalo, Stefano Mizzaro and Jorge Carrillo-de-Albornoz",long
+44,An Online Semantic-enhanced Dirichlet Model for Short Text Stream Clustering,"Jay Kumar, Junming Shao, Salah Uddin and Wazir Ali",long
+45,Analysing Lexical Semantic Change with Contextualised Word Representations,"Mario Giulianelli, Marco Del Tredici and Raquel Fernández",long
+46,Analyzing analytical methods: The case of phonology in neural models of spoken language,"Grzegorz Chrupała, Bertrand Higy and Afra Alishahi",long
+47,Analyzing Political Parody in Social Media,"Antonios Maronikolakis, Danae Sánchez Villegas, Daniel Preotiuc-Pietro and Nikolaos Aletras",long
+48,Are Natural Language Inference Models IMPPRESsive? Learning IMPlicature and PRESupposition,"Paloma Jeretic, Alex Warstadt, Suvrat Bhooshan and Adina Williams",long
+49,Asking and Answering Questions to Evaluate the Factual Consistency of Summaries,"Alex Wang, Kyunghyun Cho and Mike Lewis",long
+50,Aspect Sentiment Classification with Document-level Sentiment Preference Modeling,"Xiao Chen, Changlong Sun, Jingjing Wang, Shoushan Li, Luo Si, Min Zhang and Guodong Zhou",long
+51,ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations,"Fernando Alva-Manchego, Louis Martin, Antoine Bordes, Carolina Scarton, Benoît Sagot and Lucia Specia",long
+52,"Attend, Translate and Summarize: An Efficient Method for Neural Cross-Lingual Summarization","Junnan Zhu, Yu Zhou, Jiajun Zhang and Chengqing Zong",long
+53,Attentive Pooling with Learnable Norms for Text Representation,"Chuhan Wu, Fangzhao Wu, Tao Qi, Xiaohui Cui and Yongfeng Huang",long
+54,Autoencoding Pixies: Amortised Variational Inference with Graph Convolutions for Functional Distributional Semantics,Guy Emerson,long
+55,Automated Evaluation of Writing – 50 Years and Counting,Beata Beigman Klebanov and Nitin Madnani,long
+56,Automatic Detection of Generated Text is Easiest when Humans are Fooled,"Daphne Ippolito, Daniel Duckworth, Chris Callison-Burch and Douglas Eck",long
+57,Automatic Generation of Citation Texts in Scholarly Papers: A Pilot Study,"Xinyu Xing, Xiaosheng Fan and Xiaojun Wan",long
+58,Automatic Poetry Generation from Prosaic Text,Tim Van de Cruys,long
+59,BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps,"Wang Zhu, Hexiang Hu, Jiacheng Chen, Zhiwei Deng, Vihan Jain, Eugene Ie and Fei Sha",long
+60,Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards,Justine Zhang and Cristian Danescu-Niculescu-Mizil,long
+61,Balancing Training for Multilingual Neural Machine Translation,"Xinyi Wang, Yulia Tsvetkov and Graham Neubig",long
+62,"BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension","Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov and Luke Zettlemoyer",long
+63,Benchmarking Multimodal Regex Synthesis with Complex Structures,"Xi Ye, Qiaochu Chen, Isil Dillig and Greg Durrett",long
+64,BERTRAM: Improved Word Embeddings Have Big Impact on Contextualized Model Performance,Timo Schick and Hinrich Schütze,long
+65,Beyond Accuracy: Behavioral Testing of NLP Models with CheckList,"Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin and Sameer Singh",long
+66,Beyond Possession Existence: Duration and Co-Possession,"Dhivya Chinnappa, Srikala Murugan and Eduardo Blanco",long
+67,Beyond User Self-Reported Likert Scale Ratings: A Comparison Model for Automatic Dialog Evaluation,"Weixin Liang, James Zou and Zhou Yu",long
+68,Bilingual Dictionary Based Neural Machine Translation without Using Parallel Sentences,"Xiangyu Duan, Baijun Ji, Hao Jia, Min Tan, Min Zhang, Boxing Chen, Weihua Luo and Yue Zhang",long
+69,Biomedical Entity Representations with Synonym Marginalization,"Mujeen Sung, Hwisang Jeon, Jinhyuk Lee and Jaewoo Kang",long
+70,Bipartite Flat-Graph Network for Nested Named Entity Recognition,Ying Luo and Hai Zhao,long
+71,BiRRE: Learning Bidirectional Residual Relation Embeddings for Supervised Hypernymy Detection,Chengyu Wang and Xiaofeng He,long
+72,BLEURT: Learning Robust Metrics for Text Generation,"Thibault Sellam, Dipanjan Das and Ankur Parikh",long
+73,Boosting Neural Machine Translation with Similar Translations,"Jitao XU, Josep Crego and Jean Senellart",long
+74,Bootstrapping Techniques for Polysynthetic Morphological Analysis,William Lane and Steven Bird,long
+75,BPE-Dropout: Simple and Effective Subword Regularization,"Ivan Provilkov, Dmitrii Emelianenko and Elena Voita",long
+76,Breaking Through the 80\% Glass Ceiling: Raising the State of the Art in Word Sense Disambiguation by Incorporating Knowledge Graph Information,Michele Bevilacqua and Roberto Navigli,long
+77,Bridging Anaphora Resolution as Question Answering,Yufang Hou,long
+78,Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation,"Chao Zhao, Marilyn Walker and Snigdha Chaturvedi",long
+79,Building a User-Generated Content North-African Arabizi Treebank: Tackling Hell,"Djamé Seddah, Farah Essaidi, Amal Fethi, Matthieu Futeral, Benjamin Muller, Pedro Javier Ortiz Suárez, Benoît Sagot and Abhishek Srivastava",long
+80,Calibrating Structured Output Predictors for Natural Language Processing,Abhyuday Jagannatha and Hong Yu,long
+81,CamemBERT: a Tasty French Language Model,"Louis Martin, Benjamin Muller, Pedro Javier Ortiz Suárez, Yoann Dupont, Laurent Romary, Éric de la Clergerie, Djamé Seddah and Benoît Sagot",long
+82,Can We Predict New Facts with Open Knowledge Graph Embeddings? A Benchmark for Open Link Prediction,"Samuel Broscheit, Kiril Gashteovski, Yanjie Wang and Rainer Gemulla",long
+83,Can You Put it All Together: Evaluating Conversational Agents’ Ability to Blend Skills,"Eric Michael Smith, Mary Williamson, Kurt Shuster, Jason Weston and Y-Lan Boureau",long
+84,CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation,Lei Shen and Yang Feng,long
+85,ChartDialogs: Plotting from Natural Language Instructions,Yutong Shao and Ndapa Nakashole,long
+86,CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality,"Wenmeng Yu, Hua Xu, Fanyang Meng, Yilin Zhu, Yixiao Ma, Jiele Wu, Jiyun Zou and Kaicheng Yang",long
+87,"Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data",Emily M. Bender and Alexander Koller,long
+88,Clinical Reading Comprehension: A Thorough Analysis of the emrQA Dataset,"Xiang Yue, Bernal Jimenez Gutierrez and Huan Sun",long
+89,CluBERT: A Cluster-Based Approach for Learning Sense Distributions in Multiple Languages,"Tommaso Pasini, Federico Scozzafava and Bianca Scarlini",long
+90,CluHTM - Semantic Hierarchical Topic Modeling based on CluWords,"Felipe Viegas, Washington Cunha, Christian Gomes, Antônio Pereira, Leonardo Rocha and Marcos Goncalves",long
+91,Code and Named Entity Recognition in StackOverflow,"Jeniya Tabassum, Mounica Maddela, Wei Xu and Alan Ritter",long
+92,CompGuessWhat?!: A Multi-task Evaluation Framework for Grounded Language Learning,"Alessandro Suglia, Ioannis Konstas, Andrea Vanzo, Emanuele Bastianelli, Desmond Elliott, Stella Frank and Oliver Lemon",long
+93,Compositionality and Generalization In Emergent Languages,"Rahma Chaabouni, Eugene Kharitonov, Diane Bouchacourt, Emmanuel Dupoux and Marco Baroni",long
+94,Conditional Augmentation for Aspect Term Extraction via Masked Sequence-to-Sequence Generation,"Kun Li, Chengbo Chen, Xiaojun Quan, Qing Ling and Yan Song",long
+95,Connecting Embeddings for Knowledge Graph Entity Typing,"Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG",long
+96,Contextualized Weak Supervision for Text Classification,Dheeraj Mekala and Jingbo Shang,long
+97,Continual Relation Learning via Episodic Memory Activation and Reconsolidation,"Xu Han, Yi Dai, Tianyu Gao, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou",long
+98,Conversational Graph Grounded Policy Learning for Open-Domain Conversation Generation,"Jun Xu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu",long
+99,CorefQA: Coreference Resolution as Query-based Span Prediction,"Wei Wu, Fei Wang, Arianna Yuan, Fei Wu and Jiwei Li",long
+100,Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation,"Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang and Haitao Zheng",long
+101,CraftAssist Instruction Parsing: Semantic Parsing for a Voxel-World Assistant,"Kavya Srinet, Yacine Jernite, Jonathan Gray and Arthur Szlam",long
+102,Cross-Lingual Semantic Role Labeling with High-Quality Translated Training Corpus,"Hao Fei, Meishan Zhang and Donghong Ji",long
+103,Cross-Lingual Unsupervised Sentiment Classification with Multi-View Transfer Learning,Hongliang Fei and Ping Li,long
+104,Cross-Linguistic Syntactic Evaluation of Word Prediction Models,"Aaron Mueller, Garrett Nicolai, Panayiota Petrou-Zeniou, Natalia Talmina and Tal Linzen",long
+105,Cross-media Structured Common Space for Multimedia Event Extraction,"Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji and Shih-Fu Chang",long
+106,Cross-modal Coherence Modeling for Caption Generation,"Malihe Alikhani, Piyush Sharma, Shengjie Li, Radu Soricut and Matthew Stone",long
+107,Cross-modal Language Generation using Pivot Stabilization for Web-scale Language Coverage,Ashish V. Thapliyal and Radu Soricut,long
+108,Cross-Modality Relevance for Reasoning on Language and Vision,"Chen Zheng, Quan Guo and Parisa Kordjamshidi",long
+109,Curriculum Learning for Natural Language Understanding,"Benfeng Xu, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie and Yongdong Zhang",long
+110,Curriculum Pre-training for End-to-End Speech Translation,"Chengyi Wang, Yu Wu, Shujie Liu, Ming Zhou and Zhenglu Yang",long
+111,Data Manipulation: Towards Effective Instance Learning for Neural Dialogue Generation via Learning to Augment and Reweight,"Hengyi Cai, Hongshen Chen, Yonghao Song, Cheng Zhang, Xiaofang Zhao and Dawei Yin",long
+112,DeFormer: Decomposing Pre-trained Transformers for Faster Question Answering,"Qingqing Cao, Harsh Trivedi, Aruna Balasubramanian and Niranjan Balasubramanian",long
+113,Demographics Should Not Be the Reason of Toxicity: Mitigating Discrimination in Text Classifications with Instance Weighting,"Guanhua Zhang, Bing Bai, Junqi Zhang, Kun Bai, Conghui Zhu and Tiejun Zhao",long
+114,Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA,"Hyounghun Kim, Zineng Tang and Mohit Bansal",long
+115,Dependency Graph Enhanced Dual-transformer Structure for Aspect-based Sentiment Classification,"Hao Tang, Donghong Ji, Chenliang Li and Qiji Zhou",long
+116,DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking,"Christopher Hidey, Tuhin Chakrabarty, Tariq Alhindi, Siddharth Varia, Kriste Krstovski, Mona Diab and Smaranda Muresan",long
+117,Detecting Perceived Emotions in Hurricane Disasters,"Shrey Desai, Cornelia Caragea and Junyi Jessy Li",long
+118,Dialogue Coherence Assessment Without Explicit Dialogue Act Labels,"Mohsen Mesgar, Sebastian Bücker and Iryna Gurevych",long
+119,Dialogue-Based Relation Extraction,"Dian Yu, Kai Sun, Claire Cardie and Dong Yu",long
+120,Dice Loss for Data-imbalanced NLP Tasks,"Xiaoya Li, Xiaofei Sun, Yuxian Meng, Junjun Liang, Fei Wu and Jiwei Li",long
+121,Differentiable Window for Dynamic Local Attention,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty and Xiaoli Li",long
+122,Discourse as a Function of Event: Profiling Discourse Structure in News Articles around the Main Event,"Prafulla Kumar Choubey, Aaron Lee, Ruihong Huang and Lu Wang",long
+123,Discourse-Aware Neural Extractive Text Summarization,"Jiacheng Xu, Zhe Gan, Yu Cheng and Jingjing Liu",long
+124,Discrete Latent Variable Representations for Low-Resource Text Classification,"Shuning Jin, Sam Wiseman, Karl Stratos and Karen Livescu",long
+125,Discrete Optimization for Unsupervised Sentence Summarization with Word-Level Extraction,"Raphael Schumann, Lili Mou, Yao Lu, Olga Vechtomova and Katja Markert",long
+126,Distilling Annotations via Active Imitation Learning,"Kianté Brantley, Hal Daumé III and Amr Sharaf",long
+127,Distilling Knowledge Learned in BERT for Text Generation,"Yen-Chun Chen, Zhe Gan, Yu Cheng, Jingzhou Liu and Jingjing Liu",long
+128,Distinguish Confusing Law Articles for Legal Judgment Prediction,"Nuo Xu, Pinghui Wang, Long Chen, Li Pan, Xiaoyan Wang and Junzhou Zhao",long
+129,Diverse and Informative Dialogue Generation with Context-Specific Commonsense Knowledge Awareness,"Sixing Wu, Ying Li, Dawei Zhang, Yang Zhou and Zhonghai Wu",long
+130,Diversifying Dialogue Generation with Non-Conversational Text,"Hui Su, Xiaoyu Shen, Sanqiang Zhao, Zhou Xiao, Pengwei Hu, Randy Zhong, Cheng Niu and Jie Zhou",long
+131,Do Neural Language Models Show Preferences for Syntactic Formalisms?,"Artur Kulmizev, Vinit Ravishankar, Mostafa Abdou and Joakim Nivre",long
+132,Do Neural Models Learn Systematicity of Monotonicity Inference in Natural Language?,"Hitomi Yanaka, Koji Mineshima, Daisuke Bekki and Kentaro Inui",long
+133,Document Modeling with Graph Attention Networks for Multi-grained Machine Reading Comprehension,"Bo Zheng, Haoyang Wen, Yaobo Liang, Nan Duan, Wanxiang Che, Daxin Jiang, Ming Zhou and Ting Liu",long
+134,Document Translation vs. Query Translation for Cross-Lingual Information Retrieval in the Medical Domain,Shadi Saleh and Pavel Pecina,long
+135,Document-Level Event Role Filler Extraction using Multi-Granularity Contextualized Encoding,Xinya Du and Claire Cardie,long
+136,Don’t Say That! Making Inconsistent Dialogue Unlikely with Unlikelihood Training,"Margaret Li, Stephen Roller, Ilia Kulikov, Sean Welleck, Y-Lan Boureau, Kyunghyun Cho and Jason Weston",long
+137,Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks,"Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey and Noah A. Smith",long
+138,DoQA - Accessing Domain-Specific FAQs via Conversational QA,"Jon Ander Campos, Arantxa Otegi, Aitor Soroa, Jan Deriu, Mark Cieliebak and Eneko Agirre",long
+139,Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation,"Tianlu Wang, Xi Victoria Lin, Nazneen Fatema Rajani, Bryan McCann, Vicente Ordonez and Caiming Xiong",long
+140,DRTS Parsing with Structure-Aware Encoding and Decoding,"Qiankun Fu, Yue Zhang, Jiangming Liu and Meishan Zhang",long
+141,DTCA: Decision Tree-based Co-Attention Networks for Explainable Claim Verification,"Lianwei Wu, Yuan Rao, Yongqiang Zhao, Hao Liang and Ambreen Nazir",long
+142,Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,"Libo Qin, Xiao Xu, Wanxiang Che, Yue Zhang and Ting Liu",long
+143,Dynamic Online Conversation Recommendation,"Xingshan Zeng, Jing Li, Lu Wang, Zhiming Mao and Kam-Fai Wong",long
+144,Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation,"Xuanli He, Gholamreza Haffari and Mohammad Norouzi",long
+145,"ECPE-2D: Emotion-Cause Pair Extraction based on Joint Two-Dimensional Representation, Interaction and Prediction","Zixiang Ding, Rui Xia and Jianfei Yu",long
+146,Effective Estimation of Deep Generative Language Models,Tom Pelsmaeker and Wilker Aziz,long
+147,Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction,"Penghui Wei, Jiahao Zhao and Wenji Mao",long
+148,Efficient Constituency Parsing by Pointing,"Thanh-Tung Nguyen, Xuan-Phi Nguyen, Shafiq Joty and Xiaoli Li",long
+149,Efficient Dialogue State Tracking by Selectively Overwriting Memory,"Sungdong Kim, Sohee Yang, Gyuwan Kim and Sang-Woo Lee",long
+150,Efficient Pairwise Annotation of Argument Quality,"Lukas Gienapp, Benno Stein, Matthias Hagen and Martin Potthast",long
+151,Efficient Second-Order TreeCRF for Neural Dependency Parsing,"Yu Zhang, Zhenghua Li and Min Zhang",long
+152,Emergence of Syntax Needs Minimal Supervision,Raphaël Bailly and Kata Gábor,long
+153,Emerging Cross-lingual Structure in Pretrained Language Models,"Alexis Conneau, Shijie Wu, Haoran Li, Luke Zettlemoyer and Veselin Stoyanov",long
+154,Empower Entity Set Expansion via Language Model Probing,"Yunyi Zhang, Jiaming Shen, Jingbo Shang and Jiawei Han",long
+155,Empowering Active Learning to Jointly Optimize System and User Demands,"Ji-Ung Lee, Christian M. Meyer and Iryna Gurevych",long
+156,End-to-End Bias Mitigation by Modelling Biases in Corpora,"Rabeeh Karimi Mahabadi, Yonatan Belinkov and James Henderson",long
+157,End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,"Donghoon Ham, Jeong-Gwan Lee, Youngsoo Jang and Kee-Eung Kim",long
+158,End-to-End Neural Word Alignment Outperforms GIZA++,"Thomas Zenkel, Joern Wuebker and John DeNero",long
+159,Enhancing Answer Boundary Detection for Multilingual Machine Reading Comprehension,"Fei Yuan, Linjun Shou, Xuanyu Bai, Ming Gong, Yaobo Liang, Nan Duan, Yan Fu and Daxin Jiang",long
+160,Enhancing Cross-target Stance Detection with Transferable Semantic-Emotion Knowledge,"Bowen Zhang, Min Yang, Xutao Li, Yunming Ye, Xiaofei Xu and Kuai Dai",long
+161,ERASER: A Benchmark to Evaluate Rationalized NLP Models,"Jay DeYoung, Sarthak Jain, Nazneen Fatema Rajani, Eric Lehman, Caiming Xiong, Richard Socher and Byron C. Wallace",long
+162,ESPRIT: Explaining Solutions to Physical Reasoning Tasks,"Nazneen Fatema Rajani, Rui Zhang, Yi Chern Tan, Stephan Zheng, Jeremy Weiss, Aadit Vyas, Abhijit Gupta, Caiming Xiong, Richard Socher and Dragomir Radev",long
+163,Estimating predictive uncertainty for rumour verification models,Elena Kochkina and Maria Liakata,long
+164,Estimating the influence of auxiliary tasks for multi-task learning of sequence tagging tasks,Fynn Schröder and Chris Biemann,long
+165,Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples,"Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng and Xuanjing Huang",long
+166,Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?,Peter Hase and Mohit Bansal,long
+167,Evaluating Explanation Methods for Neural Machine Translation,"Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi",long
+168,Evidence-Aware Inferential Text Generation with Vector Quantised Variational AutoEncoder,"Daya Guo, Duyu Tang, Nan Duan, Jian Yin, Daxin Jiang and Ming Zhou",long
+169,"Exact yet Efficient Graph Parsing, Bi-directional Locality and the Constructivist Hypothesis",Yajie Ye and Weiwei Sun,long
+170,Examining Citations of Natural Language Processing Literature,Saif M. Mohammad,long
+171,Examining the State-of-the-Art in News Timeline Summarization,Demian Gholipour Ghalandari and Georgiana Ifrim,long
+172,Exclusive Hierarchical Decoding for Deep Keyphrase Generation,"Wang Chen, Hou Pong Chan, Piji Li and Irwin King",long
+173,Expertise Style Transfer: A New Task Towards Better Communication between Experts and Laymen,"Yixin Cao, Ruihao Shui, Liangming Pan, Min-Yen Kan, Zhiyuan Liu and Tat-Seng Chua",long
+174,Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions,"Xiaochuang Han, Byron C. Wallace and Yulia Tsvetkov",long
+175,Explicit Memory Tracker with Coarse-to-Fine Reasoning for Conversational Machine Reading,"Yifan Gao, Chien-Sheng Wu, Shafiq Joty, Caiming Xiong, Richard Socher, Irwin King, Michael Lyu and Steven C.H. Hoi",long
+176,Explicit Semantic Decomposition for Definition Generation,"Jiahuan Li, Yu Bao, Shujian Huang, Xinyu Dai and Jiajun Chen",long
+177,Exploiting Syntactic Structure for Better Language Modeling: A Syntactic Distance Approach,"Wenyu DU, Zhouhan Lin, Yikang Shen, Timothy J. O’Donnell, Yoshua Bengio and Yue Zhang",long
+178,Exploiting the Syntax-Model Consistency for Neural Relation Extraction,"Amir Pouran Ben Veyseh, Franck Dernoncourt, Dejing Dou and Thien Huu Nguyen",long
+179,Exploring Contextual Word-level Style Relevance for Unsupervised Style Transfer,"Chulun Zhou, Liangyu Chen, Jiachen Liu, Xinyan Xiao, Jinsong Su, Sheng Guo and Hua Wu",long
+180,Exploring Unexplored Generalization Challenges for Cross-Database Semantic Parsing,"Alane Suhr, Ming-Wei Chang, Peter Shaw and Kenton Lee",long
+181,"Extracting Headless MWEs from Dependency Parse Trees: Parsing, Tagging, and Joint Modeling Approaches",Tianze Shi and Lillian Lee,long
+182,Extractive Summarization as Text Matching,"Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu and Xuanjing Huang",long
+183,Facet-Aware Evaluation for Extractive Summarization,"Yuning Mao, Liyuan Liu, Qi Zhu, Xiang Ren and Jiawei Han",long
+184,Fact-based Text Editing,"Hayate Iso, Chao Qiao and Hang Li",long
+185,Fast and Accurate Deep Bidirectional Language Representations for Unsupervised Learning,"Joongbo Shin, Yoonhyung Lee, Seunghyun Yoon and Kyomin Jung",long
+186,Fast and Accurate Non-Projective Dependency Tree Linearization,"Xiang Yu, Simon Tannert, Ngoc Thang Vu and Jonas Kuhn",long
+187,FastBERT: a Self-distilling BERT with Adaptive Inference Time,"Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng and QI JU",long
+188,Feature Projection for Improved Text Classification,"Qi Qin, Wenpeng Hu and Bing Liu",long
+189,FEQA: A Question Answering Evaluation Framework for Faithfulness Assessment in Abstractive Summarization,"Esin Durmus, He He and Mona Diab",long
+190,Few-shot Slot Tagging with Collapsed Dependency Transfer and Label-enhanced Task-adaptive Projection Network,"Yutai Hou, Wanxiang Che, Yongkui Lai, Zhihan Zhou, Yijia Liu, Han Liu and Ting Liu",long
+191,Finding Universal Grammatical Relations in Multilingual BERT,"Ethan A. Chi, John Hewitt and Christopher D. Manning",long
+192,Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences,"Dmitry Nikolaev, Ofir Arviv, Taelin Karidi, Neta Kenneth, Veronika Mitnik, Lilja Maria Saeboe and Omri Abend",long
+193,Fine-grained Fact Verification with Kernel Graph Attention Network,"Zhenghao Liu, Chenyan Xiong, Maosong Sun and Zhiyuan Liu",long
+194,Fine-grained Interest Matching for Neural News Recommendation,"Heyuan Wang, Fangzhao Wu, Zheng Liu and Xing Xie",long
+195,Fluent Response Generation for Conversational Question Answering,"Ashutosh Baheti, Alan Ritter and Kevin Small",long
+196,From Arguments to Key Points: Towards Automatic Argument Summarization,"Roy Bar-Haim, Lilach Eden, Roni Friedman, Yoav Kantor, Dan Lahav and Noam Slonim",long
+197,From English to Code-Switching: Transfer Learning with Strong Morphological Clues,Gustavo Aguilar and Thamar Solorio,long
+198,From SPMRL to NMRL: What Did We Learn (and Unlearn) in a Decade of Parsing Morphologically-Rich Languages (MRLs)?,"Reut Tsarfaty, Dan Bareket, Stav Klein and Amit Seker",long
+199,From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains,"Jan-Christoph Klie, Richard Eckart de Castilho and Iryna Gurevych",long
+200,Frugal Paradigm Completion,"Alexander Erdmann, Tom Kenter, Markus Becker and Christian Schallhart",long
+201,Gated Convolutional Bidirectional Attention-based Model for Off-topic Spoken Response Detection,"Yefei Zha, Ruobing Li and Hui Lin",long
+202,GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media,Yi-Ju Lu and Cheng-Te Li,long
+203,Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer,"Jieyu Zhao, Subhabrata Mukherjee, Saghar Hosseini, Kai-Wei Chang and Ahmed Hassan Awadallah",long
+204,Gender Gap in Natural Language Processing Research: Disparities in Authorship and Citations,Saif M. Mohammad,long
+205,Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus,"Luisa Bentivogli, Beatrice Savoldi, Matteo Negri, Mattia A. Di Gangi, Roldano Cattoni and Marco Turchi",long
+206,Generalized Entropy Regularization or: There’s Nothing Special about Label Smoothing,"Clara Meister, Elizabeth Salesky and Ryan Cotterell",long
+207,Generalizing Natural Language Analysis through Span-relation Representations,"Zhengbao Jiang, Wei Xu, Jun Araki and Graham Neubig",long
+208,"Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation","Haoyu Song, Yan Wang, Wei-Nan Zhang, Xiaojiang Liu and Ting Liu",long
+209,Generating Counter Narratives against Online Hate Speech: Data and Strategies,"Serra Sinem Tekiroğlu, Yi-Ling Chung and Marco Guerini",long
+210,Generating Diverse and Consistent QA pairs from Contexts with Information-Maximizing Hierarchical Conditional VAEs,"Dong Bok Lee, Seanie Lee, Woo Tae Jeong, Donghwan Kim and Sung Ju Hwang",long
+211,Generating Fact Checking Explanations,"Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma and Isabelle Augenstein",long
+212,Generating Hierarchical Explanations on Text Classification via Feature Interaction Detection,"Hanjie Chen, Guangtao Zheng and Yangfeng Ji",long
+213,Generating Informative Conversational Response using Recurrent Knowledge-Interaction and Knowledge-Copy,"Xiexiong Lin, Weiyu Jian, Jianshan He, Taifeng Wang and Wei Chu",long
+214,Generative Semantic Hashing Enhanced via Boltzmann Machines,"Lin Zheng, Qinliang Su, Dinghan Shen and Changyou Chen",long
+215,GLUECoS: An Evaluation Benchmark for Code-Switched NLP,"Simran Khanuja, Sandipan Dandapat, Anirudh Srinivasan, Sunayana Sitaram and Monojit Choudhury",long
+216,GoEmotions: A Dataset of Fine-Grained Emotions,"Dorottya Demszky, Dana Movshovitz-Attias, Jeongwoo Ko, Alan Cowen, Gaurav Nemade and Sujith Ravi",long
+217,Good-Enough Compositional Data Augmentation,Jacob Andreas,long
+218,Graph Neural News Recommendation with Unsupervised Preference Disentanglement,"Linmei Hu, Siyong Xu, Chen Li, Cheng Yang, Chuan Shi, Nan Duan, Xing Xie and Ming Zhou",long
+219,Graph-to-Tree Learning for Solving Math Word Problems,"Jipeng Zhang, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao and Ee-Peng Lim",long
+220,Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs,"Houyu Zhang, Zhenghao Liu, Chenyan Xiong and Zhiyuan Liu",long
+221,Grounding Conversations with Improvised Dialogues,Hyundong Cho and Jonathan May,long
+222,Guiding Variational Response Generator to Exploit Persona,"Bowen Wu, Mengyuan Li, Zongsheng Wang, Yifu Chen, Derek F. Wong, Qihang Feng, Junhong Huang and Baoxun Wang",long
+223,Handling Rare Entities for Neural Sequence Labeling,"Yangming Li, Han Li, Kaisheng Yao and Xiaolong Li",long
+224,Hard-Coded Gaussian Attention for Neural Machine Translation,"Weiqiu You, Simeng Sun and Mohit Iyyer",long
+225,Harnessing the linguistic signal to predict scalar inferences,"Sebastian Schuster, Yuxing Chen and Judith Degen",long
+226,Harvesting and Refining Question-Answer Pairs for Unsupervised QA,"Zhongli Li, Wenhui Wang, Li Dong, Furu Wei and Ke Xu",long
+227,HAT: Hardware-Aware Transformers for Efficient Natural Language Processing,"Hanrui Wang, Zhanghao Wu, Zhijian Liu, Han Cai, Ligeng Zhu, Chuang Gan and Song Han",long
+228,He said “who’s gonna take care of your children when you are at ACL?”: Reported Sexist Acts are Not Sexist,"Patricia Chiril, Véronique Moriceau, Farah Benamara, Alda Mari, Gloria Origgi and Marlène Coulomb-Gully",long
+229,Heterogeneous Graph Neural Networks for Extractive Document Summarization,"Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu and Xuanjing Huang",long
+230,Heterogeneous Graph Transformer for Graph-to-Sequence Learning,"Shaowei Yao, Tianming Wang and Xiaojun Wan",long
+231,Hierarchical Entity Typing via Multi-level Learning to Rank,"Tongfei Chen, Yunmo Chen and Benjamin Van Durme",long
+232,Hierarchical Modeling for User Personality Prediction: The Role of Message-Level Attention,"Veronica Lynn, Niranjan Balasubramanian and H. Andrew Schwartz",long
+233,Hierarchy-Aware Global Model for Hierarchical Text Classification,"Jie Zhou, Chunping Ma, Dingkun Long, Guangwei Xu, Ning Ding, Haoyu Zhang, Pengjun Xie and Gongshen Liu",long
+234,Highway Transformer: Self-Gating Enhanced Self-Attentive Networks,"Yekun Chai, Shuo Jin and Xinwen Hou",long
+235,Hiring Now: A Skill-Aware Multi-Attention Model for Job Posting Generation,"Liting Liu, Jie Liu, Wenzheng Zhang, Ziming Chi, Wenxuan Shi and Yalou Huang",long
+236,History for Visual Dialog: Do we really need it?,"Shubham Agarwal, Trung Bui, Joon-Young Lee, Ioannis Konstas and Verena Rieser",long
+237,Hooks in the Headline: Learning to Generate Headlines with Controlled Styles,"Di Jin, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii and Peter Szolovits",long
+238,How Accents Confound: Probing for Accent Information in End-to-End Speech Recognition Systems,Archiki Prasad and Preethi Jyothi,long
+239,How does BERT’s attention change when you fine-tune? An analysis methodology and a case study in negation scope,Yiyun Zhao and Steven Bethard,long
+240,How Does NLP Benefit Legal System: A Summary of Legal Artificial Intelligence,"Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu and Maosong Sun",long
+241,How Does Selective Mechanism Improve Self-Attention Networks?,"Xinwei Geng, Longyue Wang, Xing Wang, Bing Qin, Ting Liu and Zhaopeng Tu",long
+242,How to Ask Good Questions? Try to Leverage Paraphrases,"Xin Jia, Wenjie Zhou, Xu Sun and Yunfang Wu",long
+243,Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?,"Cansu Sen, Thomas Hartvigsen, Biao Yin, Xiangnan Kong and Elke Rundensteiner",long
+244,Hyperbolic Capsule Networks for Multi-Label Classification,"Boli Chen, Xin Huang, Lin Xiao and Liping Jing",long
+245,HyperCore: Hyperbolic and Co-graph Representation for Automatic ICD Coding,"Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, Shengping Liu and Weifeng Chong",long
+246,Image-Chat: Engaging Grounded Conversations,"Kurt Shuster, Samuel Humeau, Antoine Bordes and Jason Weston",long
+247,IMoJIE: Iterative Memory-Based Joint Open Information Extraction,"Keshav Kolluru, Samarth Aggarwal, Vipul Rathore, Mausam - and Soumen Chakrabarti",long
+248,Improved Natural Language Generation via Loss Truncation,Daniel Kang and Tatsunori Hashimoto,long
+249,Improving Adversarial Text Generation by Modeling the Distant Future,"Ruiyi Zhang, Changyou Chen, Zhe Gan, Wenlin Wang, Dinghan Shen, Guoyin Wang, Zheng Wen and Lawrence Carin",long
+250,Improving Chinese Word Segmentation with Wordhood Memory Networks,"Yuanhe Tian, Yan Song, Fei Xia, Tong Zhang and Yonggang Wang",long
+251,Improving Disentangled Text Representation Learning with Information-Theoretic Guidance,"Pengyu Cheng, Martin Renqiang Min, Dinghan Shen, Christopher Malon, Yizhe Zhang, Yitong Li and Lawrence Carin",long
+252,Improving Disfluency Detection by Self-Training a Self-Attentive Model,Paria Jamshid Lou and Mark Johnson,long
+253,Improving Event Detection via Open-domain Trigger Knowledge,"Meihan Tong, Bin Xu, Shuai Wang, Yixin Cao, Lei Hou, Juanzi Li and Jun Xie",long
+254,Improving Image Captioning Evaluation by Considering Inter References Variance,"Yanzhi Yi, Hangyu Deng and Jinglu Hu",long
+255,Improving Image Captioning with Better Use of Caption,"Zhan Shi, Xu Zhou, Xipeng Qiu and Xiaodan Zhu",long
+256,Improving Massively Multilingual Neural Machine Translation and Zero-Shot Translation,"Biao Zhang, Philip Williams, Ivan Titov and Rico Sennrich",long
+257,Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings,"Apoorv Saxena, Aditay Tripathi and Partha Talukdar",long
+258,Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer,"Jianfei Yu, Jing Jiang, Li Yang and Rui Xia",long
+259,Improving Neural Machine Translation with Soft Template Prediction,"Jian Yang, Shuming Ma, Dongdong Zhang, Zhoujun Li and Ming Zhou",long
+260,Improving Segmentation for Technical Support Problems,Kushal Chauhan and Abhirut Gupta,long
+261,Improving Transformer Models by Reordering their Sublayers,"Ofir Press, Noah A. Smith and Omer Levy",long
+262,Improving Truthfulness of Headline Generation,"Kazuki Matsumaru, Sho Takase and Naoaki Okazaki",long
+263,In Layman’s Terms: Semi-Open Relation Extraction from Scientific Texts,"Ruben Kruiper, Julian Vincent, Jessica Chen-Burger, Marc Desmulliez and Ioannis Konstas",long
+264,"In Neural Machine Translation, What Does Transfer Learning Transfer?","Alham Fikri Aji, Nikolay Bogoychev, Kenneth Heafield and Rico Sennrich",long
+265,Inflecting when there’s no majority: Limitations of encoder-decoder neural networks as cognitive models for German plurals,"Kate McCurdy, Sharon Goldwater and Adam Lopez",long
+266,Influence Paths for Characterizing Subject-Verb Number Agreement in LSTM Language Models,"Kaiji Lu, Piotr Mardziel, Klas Leino, Matt Fredrikson and Anupam Datta",long
+267,Information-Theoretic Probing for Linguistic Structure,"Tiago Pimentel, Josef Valvoda, Rowan Hall Maudslay, Ran Zmigrod, Adina Williams and Ryan Cotterell",long
+268,INFOTABS: Inference on Tables as Semi-structured Data,"Vivek Gupta, Maitrey Mehta, Pegah Nokhiz and Vivek Srikumar",long
+269,Injecting Numerical Reasoning Skills into Language Models,"Mor Geva, Ankit Gupta and Jonathan Berant",long
+270,INSET: Sentence Infilling with INter-SEntential Transformer,"Yichen Huang, Yizhe Zhang, Oussama Elachqar and Yu Cheng",long
+271,Integrating Multimodal Information in Large Pretrained Transformers,"Wasifur Rahman, Md Kamrul Hasan, Sangwu Lee, AmirAli Bagher Zadeh, Chengfeng Mao, Louis-Philippe Morency and Ehsan Hoque",long
+272,Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection,"Lei Zhong, Juan Cao, Qiang Sheng, Junbo Guo and Ziang Wang",long
+273,Interactive Classification by Asking Informative Questions,"Lili Yu, Howard Chen, Sida I. Wang, Tao Lei and Yoav Artzi",long
+274,Interactive Construction of User-Centric Dictionary for Text Analytics,"Ryosuke Kohita, Issei Yoshida, Hiroshi Kanayama and Tetsuya Nasukawa",long
+275,Interactive Machine Comprehension with Information Seeking Agents,"Xingdi Yuan, Jie Fu, Marc-Alexandre Côté, Yi Tay, Chris Pal and Adam Trischler",long
+276,Intermediate-Task Transfer Learning with Pretrained Language Models: When and Why Does It Work?,"Yada Pruksachatkun, Jason Phang, Haokun Liu, Phu Mon Htut, Xiaoyi Zhang, Richard Yuanzhe Pang, Clara Vania, Katharina Kann and Samuel R. Bowman",long
+277,Interpreting Pretrained Contextualized Representations via Reductions to Static Embeddings,"Rishi Bommasani, Kelly Davis and Claire Cardie",long
+278,Investigating the effect of auxiliary objectives for the automated grading of learner English speech transcriptions,"Hannah Craighead, Andrew Caines, Paula Buttery and Helen Yannakoudakis",long
+279,Investigating Word-Class Distributions in Word Vector Spaces,Ryohei Sasano and Anna Korhonen,long
+280,iSarcasm: A Dataset of Intended Sarcasm,Silviu Oprea and Walid Magdy,long
+281,"It Takes Two to Lie: One to Lie, and One to Listen","Denis Peskov, Benny Cheng, Ahmed Elgohary, Joe Barrow, Cristian Danescu-Niculescu-Mizil and Jordan Boyd-Graber",long
+282,It’s Morphin’ Time! Combating Linguistic Discrimination with Inflectional Perturbations,"Samson Tan, Shafiq Joty, Min-Yen Kan and Richard Socher",long
+283,Iterative Edit-Based Unsupervised Sentence Simplification,"Dhruv Kumar, Lili Mou, Lukasz Golab and Olga Vechtomova",long
+284,Joint Chinese Word Segmentation and Part-of-speech Tagging via Two-way Attentions of Auto-analyzed Knowledge,"Yuanhe Tian, Yan Song, Xiang Ao, Fei Xia, Xiaojun Quan, Tong Zhang and Yonggang Wang",long
+285,"Joint Diacritization, Lemmatization, Normalization, and Fine-Grained Morphological Tagging",Nasser Zalmout and Nizar Habash,long
+286,Joint Modelling of Emotion and Abusive Language Detection,"Santhosh Rajamanickam, Pushkar Mishra, Helen Yannakoudakis and Ekaterina Shutova",long
+287,Jointly Learning to Align and Summarize for Neural Cross-Lingual Summarization,"Yue Cao, Hui Liu and Xiaojun Wan",long
+288,Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation,"Junliang Guo, Linli Xu and Enhong Chen",long
+289,KdConv: A Chinese Multi-domain Dialogue Dataset Towards Multi-turn Knowledge-driven Conversation,"Hao Zhou, Chujie Zheng, Kaili Huang, Minlie Huang and Xiaoyan Zhu",long
+290,KinGDOM: Knowledge-Guided DOMain adaptation for sentiment analysis,"Deepanway Ghosal, Devamanyu Hazarika, Abhinaba Roy, Navonil Majumder, Rada Mihalcea and Soujanya Poria",long
+291,KLEJ: Comprehensive Benchmark for Polish Language Understanding,"Piotr Rybak, Robert Mroczkowski, Janusz Tracz and Ireneusz Gawlik",long
+292,Knowledge Distillation for Multilingual Unsupervised Neural Machine Translation,"Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita and Tiejun Zhao",long
+293,Knowledge Graph Embedding Compression,Mrinmaya Sachan,long
+294,Knowledge Graph-Augmented Abstractive Summarization with Semantic-Driven Cloze Reward,"Luyang Huang, Lingfei Wu and Lu Wang",long
+295,Language (Re)modelling: Towards Embodied Language Understanding,"Ronen Tamari, Chen Shani, Tom Hope, Miriam R L Petruck, Omri Abend and Dafna Shahaf",long
+296,Language (technology) is power: The need to be explicit about NLP harms,"Su Lin Blodgett, Solon Barocas, Hal Daumé III and Hanna Wallach",long
+297,Language Models as an Alternative Evaluator of Word Order Hypotheses: A Case Study in Japanese,"Tatsuki Kuribayashi, Takumi Ito, Jun Suzuki and Kentaro Inui",long
+298,Language to Network: Conditional Parameter Adaptation with Natural Language Descriptions,"Tian Jin, Zhun Liu, Shengjia Yan, Alexandre Eichenberger and Louis-Philippe Morency",long
+299,Large Scale Multi-Actor Generative Dialog Modeling,"Alex Boyd, Raul Puri, Mohammad Shoeybi, Mostofa Patwary and Bryan Catanzaro",long
+300,Learning a Multi-Domain Curriculum for Neural Machine Translation,"Wei Wang, Ye Tian, Jiquan Ngiam, Yinfei Yang, Isaac Caswell and Zarana Parekh",long
+301,Learning and Evaluating Emotion Lexicons for 91 Languages,"Sven Buechel, Susanna Rücker and Udo Hahn",long
+302,Learning Architectures from an Extended Search Space for Language Modeling,"Yinqiao Li, Chi Hu, Yuhao Zhang, Nuo Xu, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu and Changliang Li",long
+303,Learning Constraints for Structured Prediction Using Rectifier Networks,"Xingyuan Pan, Maitrey Mehta and Vivek Srikumar",long
+304,Learning Dialog Policies from Weak Demonstrations,"Gabriel Gordon-Hall, Philip John Gorinski and Shay B. Cohen",long
+305,Learning Efficient Dialogue Policy from Demonstrations through Shaping,"Huimin Wang, Baolin Peng and Kam-Fai Wong",long
+306,"Learning Interpretable Relationships between Entities, Relations and Concepts via Bayesian Structure Learning on Open Domain Facts","Jingyuan Zhang, Mingming Sun, Yue Feng and Ping Li",long
+307,Learning Source Phrase Representations for Neural Machine Translation,"Hongfei Xu, Josef van Genabith, Deyi Xiong, Qiuhui Liu and Jingyi Zhang",long
+308,Learning to Ask More: Semi-Autoregressive Sequential Question Generation under Dual-Graph Interaction,Zi Chai and Xiaojun Wan,long
+309,Learning to Contextually Aggregate Multi-Source Supervision for Sequence Labeling,"Ouyu Lan, Xiao Huang, Bill Yuchen Lin, He Jiang, Liyuan Liu and Xiang Ren",long
+310,Learning to Customize Model Structures for Few-shot Dialogue Generation Tasks,"Yiping Song, Zequn Liu, Wei Bi, Rui Yan and Ming Zhang",long
+311,Learning to Deceive with Attention-Based Explanations,"Danish Pruthi, Mansi Gupta, Bhuwan Dhingra, Graham Neubig and Zachary C. Lipton",long
+312,Learning to execute instructions in a Minecraft dialogue,"Prashant Jayannavar, Anjali Narayan-Chen and Julia Hockenmaier",long
+313,Learning to Faithfully Rationalize by Construction,"Sarthak Jain, Sarah Wiegreffe, Yuval Pinter and Byron C. Wallace",long
+314,Learning to Identify Follow-Up Questions in Conversational Question Answering,"Souvik Kundu, Qian Lin and Hwee Tou Ng",long
+315,Learning to Recover from Multi-Modality Errors for Non-Autoregressive Neural Machine Translation,"Qiu Ran, Yankai Lin, Peng Li and Jie Zhou",long
+316,Learning to Segment Actions from Observation and Narration,"Daniel Fried, Jean-Baptiste Alayrac, Phil Blunsom, Chris Dyer, Stephen Clark and Aida Nematzadeh",long
+317,Learning to Update Natural Language Comments Based on Code Changes,"Sheena Panthaplackel, Pengyu Nie, Milos Gligoric, Junyi Jessy Li and Raymond Mooney",long
+318,Learning Web-based Procedures by Reasoning over Explanations and Demonstrations in Context,"Shashank Srivastava, Oleksandr Polozov, Nebojsa Jojic and Christopher Meek",long
+319,Leveraging Graph to Improve Abstractive Multi-Document Summarization,"Wei Li, Xinyan Xiao, Jiachen Liu, Hua Wu, Haifeng Wang and Junping Du",long
+320,Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks,"Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu and Kai Yu",long
+321,Location Attention for Extrapolation to Longer Sequences,"Yann Dubois, Gautier Dagan, Dieuwke Hupkes and Elia Bruni",long
+322,Logical Natural Language Generation from Open-Domain Tables,"Wenhu Chen, Jianshu Chen, Yu Su, Zhiyu Chen and William Yang Wang",long
+323,LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network,"Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang and Jian Yin",long
+324,Low-Dimensional Hyperbolic Knowledge Graph Embeddings,"Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré",long
+325,Low-Resource Generation of Multi-hop Reasoning Questions,"Jianxing Yu, Wei Liu, Shuang Qiu, Qinliang Su, Kai Wang, Xiaojun Quan and Jian Yin",long
+326,Machine Reading of Historical Events,"Or Honovich, Lucas Torroba Hennigen, Omri Abend and Shay B. Cohen",long
+327,Mapping Natural Language Instructions to Mobile UI Action Sequences,"Yang Li, Jiacong He, Xin Zhou, Yuan Zhang and Jason Baldridge",long
+328,MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning,"Jie Lei, Liwei Wang, Yelong Shen, Dong Yu, Tamara Berg and Mohit Bansal",long
+329,Masked Language Model Scoring,"Julian Salazar, Davis Liang, Toan Q. Nguyen and Katrin Kirchhoff",long
+330,"MATINF: A Jointly Labeled Large-Scale Dataset for Classification, Question Answering and Summarization","Canwen Xu, Jiaxin Pei, Hongtao Wu, Yiyu Liu and Chenliang Li",long
+331,Max-Margin Incremental CCG Parsing,Miloš Stanojević and Mark Steedman,long
+332,Measuring Forecasting Skill from Text,"Shi Zong, Alan Ritter and Eduard Hovy",long
+333,Meta-Reinforced Multi-Domain State Generator for Dialogue Systems,"Yi Huang, Junlan Feng, Min Hu, Xiaoting Wu, Xiaoyu Du and Shuo Ma",long
+334,MIE: A Medical Information Extractor towards Medical Dialogues,"Yuanzhe Zhang, Zhongtao Jiang, Tao Zhang, Shiwan Liu, Jiarun Cao, Kang Liu, Shengping Liu and Jun Zhao",long
+335,Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance,"Prasetya Ajie Utama, Nafise Sadat Moosavi and Iryna Gurevych",long
+336,MIND: A Large-scale Dataset for News Recommendation,"Fangzhao Wu, Ying Qiao, Jiun-Hung Chen, Chuhan Wu, Tao Qi, Jianxun Lian, Danyang Liu, Xing Xie, Jianfeng Gao, Winnie Wu and Ming Zhou",long
+337,MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification,"Jiaao Chen, Zichao Yang and Diyi Yang",long
+338,MLQA: Evaluating Cross-lingual Extractive Question Answering,"Patrick Lewis, Barlas Oguz, Ruty Rinott, Sebastian Riedel and Holger Schwenk",long
+339,MMPE: A Multi-Modal Interface for Post-Editing Machine Translation,"Nico Herbig, Tim Düwel, Santanu Pal, Kalliopi Maria Meladaki, Mahsa Monshizadeh, Antonio Krüger and Josef van Genabith",long
+340,MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices,"Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang and Denny Zhou",long
+341,Modeling Code-Switch Languages Using Bilingual Parallel Corpus,Grandee Lee and Haizhou Li,long
+342,Modeling Morphological Typology for Unsupervised Learning of Language Morphology,"Hongzhi Xu, Jordan Kodner, Mitchell Marcus and Charles Yang",long
+343,Modelling Context and Syntactical Features for Aspect-based Sentiment Analysis,Minh Hieu Phan and Philip O. Ogunbona,long
+344,More Diverse Dialogue Datasets via Diversity-Informed Data Collection,"Katherine Stasaski, Grace Hui Yang and Marti A. Hearst",long
+345,Moving Down the Long Tail of Word Sense Disambiguation with Gloss Informed Bi-encoders,Terra Blevins and Luke Zettlemoyer,long
+346,Multi-agent Communication meets Natural Language: Synergies between Functional and Structural Language Learning,"Angeliki Lazaridou, Anna Potapenko and Olivier Tieleman",long
+347,Multi-Agent Task-Oriented Dialog Policy Learning with Role-Aware Reward Decomposition,"Ryuichi Takanobu, Runze Liang and Minlie Huang",long
+348,Multi-Cell Compositional LSTM for NER Domain Adaptation,Chen Jia and Yue Zhang,long
+349,Multidirectional Associative Optimization of Function-Specific Word Representations,"Daniela Gerz, Ivan Vulić, Marek Rei, Roi Reichart and Anna Korhonen",long
+350,Multi-Domain Dialogue Acts and Response Co-Generation,"Kai Wang, Junfeng Tian, Rui Wang, Xiaojun Quan and Jianxing Yu",long
+351,Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference,"Jing Wang, Mayank Kulkarni and Daniel Preotiuc-Pietro",long
+352,Multi-Domain Neural Machine Translation with Word-Level Adaptive Layer-wise Domain Mixing,"Haoming Jiang, Chen Liang, Chong Wang and Tuo Zhao",long
+353,Multi-Granularity Interaction Network for Extractive and Abstractive Multi-Document Summarization,"Hanqi Jin, Tianming Wang and Xiaojun Wan",long
+354,Multi-Hypothesis Machine Translation Evaluation,"Marina Fomicheva, Lucia Specia and Francisco Guzmán",long
+355,Multi-Label and Multilingual News Framing Analysis,"Afra Feyza Akyürek, Lei Guo, Randa Elanwar, Prakash Ishwar, Margrit Betke and Derry Tanti Wijaya",long
+356,Multimodal Neural Graph Memory Networks for Visual Question Answering,Mahmoud Khademi,long
+357,MultiQT: Multimodal learning for real-time question tracking in speech,"Jakob D. Havtorn, Jan Latko, Joakim Edin, Lars Maaløe, Lasse Borgholt, Lorenzo Belgrano, Nicolai Jacobsen, Regitze Sdun and Željko Agić",long
+358,Multiscale Collaborative Deep Models for Neural Machine Translation,"Xiangpeng Wei, Heng Yu, Yue Hu, Yue Zhang, Rongxiang Weng and Weihua Luo",long
+359,Multi-Sentence Argument Linking,"Seth Ebner, Patrick Xia, Ryan Culkin, Kyle Rawlins and Benjamin Van Durme",long
+360,Multi-source Meta Transfer for Low Resource Multiple-Choice Question Answering,"Ming Yan, Hao Zhang, Di Jin and Joey Tianyi Zhou",long
+361,MuTual: A Dataset for Multi-Turn Dialogue Reasoning,"Leyang Cui, Yu Wu, Shujie Liu, Yue Zhang and Ming Zhou",long
+362,Named Entity Recognition without Labelled Data: A Weak Supervision Approach,"Pierre Lison, Jeremy Barnes, Aliaksandr Hubin and Samia Touileb",long
+363,NAT: Noise-Aware Training for Robust Neural Sequence Labeling,"Marcin Namysl, Sven Behnke and Joachim Köhler",long
+364,Negative Training for Neural Dialogue Response Generation,Tianxing He and James Glass,long
+365,Neighborhood Matching Network for Entity Alignment,"Yuting Wu, Xiao Liu, Yansong Feng, Zheng Wang and Dongyan Zhao",long
+366,NeuInfer: Knowledge Inference on N-ary Facts,"Saiping Guan, Xiaolong Jin, Jiafeng Guo, Yuanzhuo Wang and Xueqi Cheng",long
+367,Neural CRF Model for Sentence Alignment in Text Simplification,"Chao Jiang, Mounica Maddela, Wuwei Lan, Yang Zhong and Wei Xu",long
+368,Neural Data-to-Text Generation via Jointly Learning the Segmentation and Correspondence,"Xiaoyu Shen, Ernie Chang, Hui Su, Cheng Niu and Dietrich Klakow",long
+369,Neural Generation of Dialogue Response Timings,Matthew Roddy and Naomi Harte,long
+370,Neural Mixed Counting Models for Dispersed Topic Discovery,"Jiemin Wu, Yanghui Rao, Zusheng Zhang, Haoran Xie, Qing Li, Fu Lee Wang and Ziye Chen",long
+371,Neural Reranking for Dependency Parsing: An Evaluation,Bich-Ngoc Do and Ines Rehbein,long
+372,Neural Syntactic Preordering for Controlled Paraphrase Generation,Tanya Goyal and Greg Durrett,long
+373,Neural Topic Modeling with Bidirectional Adversarial Training,"Rui Wang, Xuemeng Hu, Deyu Zhou, Yulan He, Yuxuan Xiong, Chenchen Ye and Haiyang Xu",long
+374,NILE : Natural Language Inference with Faithful Natural Language Explanations,Sawan Kumar and Partha Talukdar,long
+375,Norm-Based Curriculum Learning for Neural Machine Translation,"Xuebo Liu, Houtim Lai, Derek F. Wong and Lidia S. Chao",long
+376,Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses,"Erfan Sadeqi Azer, Daniel Khashabi, Ashish Sabharwal and Dan Roth",long
+377,Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection,"Shauli Ravfogel, Yanai Elazar, Hila Gonen, Michael Twiton and Yoav Goldberg",long
+378,Obtaining Faithful Interpretations from Compositional Neural Networks,"Sanjay Subramanian, Ben Bogin, Nitish Gupta, Tomer Wolfson, Sameer Singh, Jonathan Berant and Matt Gardner",long
+379,On Faithfulness and Factuality in Abstractive Summarization,"Joshua Maynez, Shashi Narayan, Bernd Bohnet and Ryan McDonald",long
+380,On the Cross-lingual Transferability of Monolingual Representations,"Mikel Artetxe, Sebastian Ruder and Dani Yogatama",long
+381,On the Encoder-Decoder Incompatibility in Variational Text Modeling and Beyond,"Chen Wu, Prince Zizhuang Wang and William Yang Wang",long
+382,On The Evaluation of Machine Translation SystemsTrained With Back-Translation,"Sergey Edunov, Myle Ott, Marc’Aurelio Ranzato and Michael Auli",long
+383,On the Inference Calibration of Neural Machine Translation,"Shuo Wang, Zhaopeng Tu, Shuming Shi and Yang Liu",long
+384,On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation,"Wei Zhao, Goran Glavaš, Maxime Peyrard, Yang Gao, Robert West and Steffen Eger",long
+385,On the Robustness of Language Encoders against Grammatical Errors,"Fan Yin, Quanyu Long, Tao Meng and Kai-Wei Chang",long
+386,One Size Does Not Fit All: Generating and Evaluating Variable Number of Keyphrases,"Xingdi Yuan, Tong Wang, Rui Meng, Khushboo Thaker, Peter Brusilovsky, Daqing He and Adam Trischler",long
+387,Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports,"Yuhao Zhang, Derek Merck, Emily Tsai, Christopher D. Manning and Curtis Langlotz",long
+388,Orthogonal Relation Transforms with Graph Context Modeling for Knowledge Graph Embedding,"Yun Tang, Jing Huang, Guangtao Wang, Xiaodong He and Bowen Zhou",long
+389,Out of the Echo Chamber: Detecting Countering Debate Speeches,"Matan Orbach, Yonatan Bilu, Assaf Toledo, Dan Lahav, Michal Jacovi, Ranit Aharonov and Noam Slonim",long
+390,ParaCrawl: Web-Scale Acquisition of Parallel Corpora,"Marta Bañón, Pinzhen Chen, Barry Haddow, Kenneth Heafield, Hieu Hoang, Miquel Esplà-Gomis, Mikel L. Forcada, Amir Kamran, Faheem Kirefu, Philipp Koehn, Sergio Ortiz Rojas, Leopoldo Pla Sempere, Gema Ramírez-Sánchez, Elsa Sarrías, Marek Strelec, Brian Thompson, William Waites, Dion Wiggins and Jaume Zaragoza",long
+391,Parallel Corpus Filtering via Pre-trained Language Models,"Boliang Zhang, Ajay Nagesh and Kevin Knight",long
+392,Paraphrase Augmented Task-Oriented Dialog Generation,"Silin Gao, Yichi Zhang, Zhijian Ou and Zhou Yu",long
+393,Paraphrase Generation by Learning How to Edit from Samples,"Amirhossein Kazemnejad, Mohammadreza Salehi and Mahdieh Soleymani Baghshah",long
+394,Parsing into Variable-in-situ Logico-Semantic Graphs,Yufei Chen and Weiwei Sun,long
+395,Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT,"Zhiyong Wu, Yun Chen, Ben Kao and Qun Liu",long
+396,PeTra: A Sparsely Supervised Memory Model for People Tracking,"Shubham Toshniwal, Allyson Ettinger, Kevin Gimpel and Karen Livescu",long
+397,Phone Features Improve Speech Translation,Elizabeth Salesky and Alan W Black,long
+398,Phonetic and Visual Priors for Decipherment of Informal Romanization,"Maria Ryskina, Matthew R. Gormley and Taylor Berg-Kirkpatrick",long
+399,PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable,"Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang",long
+400,Politeness Transfer: A Tag and Generate Approach,"Aman Madaan, Amrith Setlur, Tanmay Parekh, Barnabas Poczos, Graham Neubig, Yiming Yang, Ruslan Salakhutdinov, Alan W Black and Shrimai Prabhumoye",long
+401,Posterior Control of Blackbox Generation,Xiang Lisa Li and Alexander Rush,long
+402,Predicting Declension Class from Form and Meaning,"Adina Williams, Tiago Pimentel, Arya D. McCarthy, Hagen Blix, Eleanor Chodroff and Ryan Cotterell",long
+403,Predicting Depression in Screening Interviews from Latent Categorization of Interview Prompts,"Alex Rinaldi, Jean Fox Tree and Snigdha Chaturvedi",long
+404,Predicting Performance for Natural Language Processing Tasks,"Mengzhou Xia, Antonios Anastasopoulos, Ruochen Xu, Yiming Yang and Graham Neubig",long
+405,Predicting the Focus of Negation: Model and Error Analysis,"Md Mosharaf Hossain, Kathleen Hamilton, Alexis Palmer and Eduardo Blanco",long
+406,Predicting the Growth of Morphological Families from Social and Linguistic Factors,"Valentin Hofmann, Janet Pierrehumbert and Hinrich Schütze",long
+407,Predicting the Topical Stance and Political Leaning of Media using Tweets,"Peter Stefanov, Kareem Darwish, Atanas Atanasov and Preslav Nakov",long
+408,Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview,"Deven Santosh Shah, H. Andrew Schwartz and Dirk Hovy",long
+409,Premise Selection in Natural Language Mathematical Texts,Deborah Ferreira and André Freitas,long
+410,Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders,"Yu Duan, Canwen Xu, Jiaxin Pei, Jialong Han and Chenliang Li",long
+411,Pre-training Is (Almost) All You Need: An Application to Commonsense Reasoning,"Alexandre Tamborrino, Nicola Pellicanò, Baptiste Pannier, Pascal Voitot and Louise Naudin",long
+412,Pretraining with Contrastive Sentence Objectives Improves Discourse Performance of Language Models,"Dan Iter, Kelvin Guu, Larry Lansing and Dan Jurafsky",long
+413,Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering,"Hao Cheng, Ming-Wei Chang, Kenton Lee and Kristina Toutanova",long
+414,Probabilistically Masked Language Model Capable of Autoregressive Generation in Arbitrary Word Order,"Yi Liao, Xin Jiang and Qun Liu",long
+415,Probing for referential information in language models,"Ionut-Teodor Sorodoc, Kristina Gulordava and Gemma Boleda",long
+416,Probing Linguistic Features of Sentence-Level Representations in Relation Extraction,"Christoph Alt, Aleksandra Gabryszak and Leonhard Hennig",long
+417,Probing Linguistic Systematicity,"Emily Goodwin, Koustuv Sinha and Timothy J. O’Donnell",long
+418,Programming in Natural Language with fuSE: Synthesizing Methods from Spoken Utterances Using Deep Natural Language Understanding,"Sebastian Weigelt, Vanessa Steurer, Tobias Hey and Walter F. Tichy",long
+419,PuzzLing Machines: A Challenge on Learning From Small Data,"Gözde Gül Şahin, Yova Kementchedjhieva, Phillip Rust and Iryna Gurevych",long
+420,Pyramid: A Layered Model for Nested Named Entity Recognition,"Jue Wang, Lidan Shou, Ke Chen and Gang Chen",long
+421,QuASE: Question-Answer Driven Sentence Encoding,"Hangfeng He, Qiang Ning and Dan Roth",long
+422,"R^3: Reverse, Retrieve, and Rank for Sarcasm Generation with Commonsense Knowledge","Tuhin Chakrabarty, Debanjan Ghosh, Smaranda Muresan and Nanyun Peng",long
+423,Rationalizing Medical Relation Prediction from Corpus-level Statistics,"Zhen Wang, Jennifer Lee, Simon Lin and Huan Sun",long
+424,Rationalizing Text Matching: Learning Sparse Alignments via Optimal Transport,"Kyle Swanson, Lili Yu and Tao Lei",long
+425,RAT-SQL: Relation-Aware Schema Encoding and Linking for Text-to-SQL Parsers,"Bailin Wang, Richard Shin, Xiaodong Liu, Oleksandr Polozov and Matthew Richardson",long
+426,Reasoning Over Semantic-Level Graph for Fact Checking,"Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang and Jian Yin",long
+427,Reasoning with Latent Structure Refinement for Document-Level Relation Extraction,"Guoshun Nan, Zhijiang Guo, Ivan Sekulic and Wei Lu",long
+428,Reasoning with Multimodal Sarcastic Tweets via Modeling Cross-Modality Contrast and Semantic Association,"Nan Xu, Zhixiong Zeng and Wenji Mao",long
+429,(Re)construing Meaning in NLP,"Sean Trott, Tiago Timponi Torrent, Nancy Chang and Nathan Schneider",long
+430,Recurrent Chunking Mechanisms for Long-Text Machine Reading Comprehension,"Hongyu Gong, Yelong Shen, Dian Yu, Jianshu Chen and Dong Yu",long
+431,Recurrent Neural Network Language Models Always Learn English-Like Relative Clause Attachment,Forrest Davis and Marten van Schijndel,long
+432,Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem,Danielle Saunders and Bill Byrne,long
+433,Refer360° : A Referring Expression Recognition Dataset in 360° Images,"Volkan Cirik, Taylor Berg-Kirkpatrick and Louis-Philippe Morency",long
+434,ReInceptionE: Relation-Aware Inception Network with Joint Local-Global Structural Information for Knowledge Graph Embedding,"Zhiwen Xie, Guangyou Zhou, Jin Liu and Jimmy Xiangji Huang",long
+435,Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents,"Daoyuan Chen, Yaliang Li, Kai Lei and Ying Shen",long
+436,Relational Graph Attention Network for Aspect-based Sentiment Analysis,"Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan and Rui Wang",long
+437,Relation-Aware Collaborative Learning for Unified Aspect-Based Sentiment Analysis,Zhuang Chen and Tieyun Qian,long
+438,Representation Learning for Information Extraction from Form-like Documents,"Bodhisattwa Prasad Majumder, Navneet Potti, Sandeep Tata, James Bradley Wendt, Qi Zhao and Marc Najork",long
+439,Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation,"Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu and Nevin L. Zhang",long
+440,Rethinking Dialogue State Tracking with Reasoning,"Lizi Liao, Yunshan Ma, Wenqiang Lei and Tat-Seng Chua",long
+441,Review-based Question Generation with Adaptive Instance Transfer and Augmentation,"Qian Yu, Lidong Bing, Qiong Zhang, Wai Lam and Luo Si",long
+442,Revisiting the Context Window for Cross-lingual Word Embeddings,Ryokan Ri and Yoshimasa Tsuruoka,long
+443,Rigid Formats Controlled Text Generation,"Piji Li, Haisong Zhang, Xiaojiang Liu and Shuming Shi",long
+444,RikiNet: Reading Wikipedia Pages for Natural Question Answering,"Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Daxin Jiang, Jiancheng Lv and Nan Duan",long
+445,Robust Encodings: A Framework for Combating Adversarial Typos,"Erik Jones, Robin Jia, Aditi Raghunathan and Percy Liang",long
+446,Roles and Utilization of Attention Heads in Transformer-based Neural Language Models,Jae-young Jo and Sung-Hyon Myaeng,long
+447,S2ORC: The Semantic Scholar Open Research Corpus,"Kyle Lo, Lucy Wang, Mark Neumann, Rodney Kinney and Daniel Weld",long
+448,SAS: Dialogue State Tracking via Slot Attention and Slot Information Sharing,"Jiaying Hu, Yan Yang, Chencai Chen, Liang He and Zhou Yu",long
+449,SCDE: Sentence Cloze Dataset with High Quality Distractors From Examinations,"Xiang Kong, Varun Gangal and Eduard Hovy",long
+450,schuBERT: Optimizing Elements of BERT,Ashish Khetan and Zohar Karnin,long
+451,SciREX: A Challenge Dataset for Document-Level Information Extraction,"Sarthak Jain, Madeleine van Zuylen, Hannaneh Hajishirzi and Iz Beltagy",long
+452,Screenplay Summarization Using Latent Narrative Structure,"Pinelopi Papalampidi, Frank Keller, Lea Frermann and Mirella Lapata",long
+453,ScriptWriter: Narrative-Guided Script Generation,"Yutao Zhu, Ruihua Song, Zhicheng Dou, Jian-Yun Nie and Jin Zhou",long
+454,SEEK: Segmented Embedding of Knowledge Graphs,"Wentao Xu, Shun Zheng, Liang He, Bin Shao, Jian Yin and Tie-Yan Liu",long
+455,Selecting Backtranslated Data from Multiple Sources for Improved Neural Machine Translation,"Xabier Soto, Dimitar Shterionov, Alberto Poncelas and Andy Way",long
+456,Selective Question Answering under Domain Shift,"Amita Kamath, Robin Jia and Percy Liang",long
+457,Semantic Graphs for Generating Deep Questions,"Liangming Pan, Yuxi Xie, Yansong Feng, Tat-Seng Chua and Min-Yen Kan",long
+458,Semantic Parsing for English as a Second Language,"Yuanyuan Zhao, Weiwei Sun, Junjie Cao and Xiaojun Wan",long
+459,Semantic Scaffolds for Pseudocode-to-Code Generation,"Ruiqi Zhong, Mitchell Stern and Dan Klein",long
+460,Semi-supervised Contextual Historical Text Normalization,Peter Makarov and Simon Clematide,long
+461,Semi-Supervised Dialogue Policy Learning via Stochastic Reward Estimation,"Xinting Huang, Jianzhong Qi, Yu Sun and Rui Zhang",long
+462,Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders,"Zixia Jia, Youmi Ma, Jiong Cai and Kewei Tu",long
+463,SenseBERT: Driving Some Sense into BERT,"Yoav Levine, Barak Lenz, Or Dagan, Ori Ram, Dan Padnos, Or Sharir, Shai Shalev-Shwartz, Amnon Shashua and Yoav Shoham",long
+464,SentiBERT: A Transferable Transformer-Based Architecture for Compositional Sentiment Semantics,"Da Yin, Tao Meng and Kai-Wei Chang",long
+465,"Sentiment and Emotion help Sarcasm? A Multi-task Learning Framework for Multi-Modal Sarcasm, Sentiment and Emotion Analysis","Dushyant Singh Chauhan, Dhanush S R, Asif Ekbal and Pushpak Bhattacharyya",long
+466,SeqVAT: Virtual Adversarial Training for Semi-Supervised Sequence Labeling,"Luoxin Chen, Weitong Ruan, Xinyue Liu and Jianhua Lu",long
+467,Should All Cross-Lingual Embeddings Speak English?,Antonios Anastasopoulos and Graham Neubig,long
+468,Similarity Analysis of Contextual Word Representation Models,"John Wu, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi and James Glass",long
+469,"Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora","Hila Gonen, Ganesh Jawahar, Djamé Seddah and Yoav Goldberg",long
+470,Simplify the Usage of Lexicon in Chinese NER,"Ruotian Ma, Minlong Peng, Qi Zhang, Zhongyu Wei and Xuanjing Huang",long
+471,SimulSpeech: End-to-End Simultaneous Speech to Text Translation,"Yi Ren, Jinglin Liu, Xu Tan, Chen Zhang, Tao Qin, Zhou Zhao and Tie-Yan Liu",long
+472,Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language,"Qianhui Wu, Zijia Lin, Börje Karlsson, Jian-Guang Lou and Biqing Huang",long
+473,SKEP: Sentiment Knowledge Enhanced Pre-training for Sentiment Analysis,"Hao Tian, Can Gao, Xinyan Xiao, Hao Liu, Bolei He, Hua Wu, Haifeng Wang and Feng Wu",long
+474,Slot-consistent NLG for Task-oriented Dialogue Systems with Iterative Rectification Network,"Yangming Li, Kaisheng Yao, Libo Qin, Wanxiang Che, Xiaolong Li and Ting Liu",long
+475,SMART: Robust and Efficient Fine-Tuning for Pre-trained Natural Language Models through Principled Regularized Optimization,"Haoming Jiang, Pengcheng He, Weizhu Chen, Xiaodong Liu, Jianfeng Gao and Tuo Zhao",long
+476,Social Bias Frames: Reasoning about Social and Power Implications of Language,"Maarten Sap, Saadia Gabriel, Lianhui Qin, Dan Jurafsky, Noah A. Smith and Yejin Choi",long
+477,Sources of Transfer in Multilingual Named Entity Recognition,"David Mueller, Nicholas Andrews and Mark Dredze",long
+478,Span Selection Pre-training for Question Answering,"Michael Glass, Alfio Gliozzo, Rishav Chakravarti, Anthony Ferritto, Lin Pan, G P Shrivatsa Bhargav, Dinesh Garg and Avi Sil",long
+479,Span-based Localizing Network for Natural Language Video Localization,"Hao Zhang, Aixin Sun, Wei Jing and Joey Tianyi Zhou",long
+480,SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction,"He Zhao, Longtao Huang, Rong Zhang, Quan Lu and Hui Xue",long
+481,Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback,"Ahmed Elgohary, Saghar Hosseini and Ahmed Hassan Awadallah",long
+482,Speaker Sensitive Response Evaluation Model,JinYeong Bak and Alice Oh,long
+483,Speakers enhance contextually confusable words,"Eric Meinhardt, Eric Bakovic and Leon Bergen",long
+484,SPECTER: Document-level Representation Learning using Citation-informed Transformers,"Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey and Daniel Weld",long
+485,Speech Translation and the End-to-End Promise: Taking Stock of Where We Are,Matthias Sperber and Matthias Paulik,long
+486,SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check,"Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu and Yuan Qi",long
+487,Spelling Error Correction with Soft-Masked BERT,"Shaohua Zhang, Haoran Huang, Jicong Liu and Hang Li",long
+488,Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words,Josef Klafka and Allyson Ettinger,long
+489,STARC: Structured Annotations for Reading Comprehension,"Yevgeni Berzak, Jonathan Malmaud and Roger Levy",long
+490,"Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization",Xin Du and Kumiko Tanaka-Ishii,long
+491,Storytelling with Dialogue: A Critical Role Dungeons and Dragons Dataset,Revanth Rameshkumar and Peter Bailey,long
+492,Structural Information Preserving for Graph-to-Text Generation,"Linfeng Song, Ante Wang, Jinsong Su, Yue Zhang, Kun Xu, Yubin Ge and Dong Yu",long
+493,Structured Tuning for Semantic Role Labeling,"Tao Li, Parth Anand Jawale, Martha Palmer and Vivek Srikumar",long
+494,Structure-Level Knowledge Distillation For Multilingual Sequence Labeling,"Xinyu Wang, Yong Jiang, Nguyen Bach, Tao Wang, Fei Huang and Kewei Tu",long
+495,Suspense in Short Stories is Predicted By Uncertainty Reduction over Neural Story Representation,David Wilmot and Frank Keller,long
+496,Synchronous Double-channel Recurrent Network for Aspect-Opinion Pair Extraction,"Shaowei Chen, Jie Liu, Yu Wang, Wenzheng Zhang and Ziming Chi",long
+497,Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation,Kaustubh Dhole and Christopher D. Manning,long
+498,Syntax-Aware Opinion Role Labeling with Dependency Graph Convolutional Networks,"Bo Zhang, Yue Zhang, Rui Wang, Zhenghua Li and Min Zhang",long
+499,TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data,"Pengcheng Yin, Graham Neubig, Wen-tau Yih and Sebastian Riedel",long
+500,TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task,"Christoph Alt, Aleksandra Gabryszak and Leonhard Hennig",long
+501,TAG : Type Auxiliary Guiding for Code Comment Generation,"Ruichu Cai, Zhihao Liang, Boyan Xu, zijian li, Yuexing Hao and Yao Chen",long
+502,Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics,"Nitika Mathur, Timothy Baldwin and Trevor Cohn",long
+503,TaPas: Weakly Supervised Table Parsing via Pre-training,"Jonathan Herzig, Pawel Krzysztof Nowak, Thomas Müller, Francesco Piccinno and Julian Eisenschlos",long
+504,Target Inference in Argument Conclusion Generation,"Milad Alshomary, Shahbaz Syed, Martin Potthast and Henning Wachsmuth",long
+505,Taxonomy Construction of Unseen Domains via Graph-based Cross-Domain Knowledge Transfer,"Chao Shang, Sarthak Dash, Md Faisal Mahbub Chowdhury, Nandana Mihindukulasooriya and Alfio Gliozzo",long
+506,Tchebycheff Procedure for Multi-task Text Classification,"Yuren Mao, Shuang Yun, Weiwei Liu and Bo Du",long
+507,Temporal Common Sense Acquisition with Minimal Supervision,"Ben Zhou, Qiang Ning, Daniel Khashabi and Dan Roth",long
+508,Temporally-Informed Analysis of Named Entity Recognition,Shruti Rijhwani and Daniel Preotiuc-Pietro,long
+509,Text and Causal Inference: A Review of Using Text to Remove Confounding from Causal Estimates,"Katherine Keith, David Jensen and Brendan O’Connor",long
+510,Text-Based Ideal Points,"Keyon Vafa, Suresh Naidu and David Blei",long
+511,That is a Known Lie: Detecting Previously Fact-Checked Claims,"Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino and Preslav Nakov",long
+512,“The Boating Store Had Its Best Sail Ever”: Pronunciation-attentive Contextualized Pun Recognition,"Yichao Zhou, Jyun-Yu Jiang, Jieyu Zhao, Kai-Wei Chang and Wei Wang",long
+513,The Cascade Transformer: an Application for Efficient Answer Sentence Selection,Luca Soldaini and Alessandro Moschitti,long
+514,The Dialogue Dodecathlon: Open-Domain Knowledge and Image Grounded Conversational Agents,"Kurt Shuster, Da JU, Stephen Roller, Emily Dinan, Y-Lan Boureau and Jason Weston",long
+515,The Paradigm Discovery Problem,"Alexander Erdmann, Micha Elsner, Shijie Wu, Ryan Cotterell and Nizar Habash",long
+516,The Right Tool for the Job: Matching Model and Instance Complexities,"Roy Schwartz, Gabriel Stanovsky, Swabha Swayamdipta, Jesse Dodge and Noah A. Smith",long
+517,The Sensitivity of Language Models and Humans to Winograd Schema Perturbations,"Mostafa Abdou, Vinit Ravishankar, Maria Barrett, Yonatan Belinkov, Desmond Elliott and Anders Søgaard",long
+518,The SOFC-Exp Corpus and Neural Approaches to Information Extraction in the Materials Science Domain,"Annemarie Friedrich, Heike Adel, Federico Tomazic, Johannes Hingerl, Renou Benteau, Anika Marusczyk and Lukas Lange",long
+519,The State and Fate of Linguistic Diversity and Inclusion in the NLP World,"Pratik Joshi, Sebastin Santy, Amar Budhiraja, Kalika Bali and Monojit Choudhury",long
+520,The Summary Loop: Learning to Write Abstractive Summaries Without Examples,"Philippe Laban, Andrew Hsi, John Canny and Marti A. Hearst",long
+521,The TechQA Dataset,"Vittorio Castelli, Rishav Chakravarti, Saswati Dana, Anthony Ferritto, Radu Florian, Martin Franz, Dinesh Garg, Dinesh Khandelwal, Scott McCarley, Michael McCawley, Mohamed Nasr, Lin Pan, Cezar Pendus, John Pitrelli, Saurabh Pujar, Salim Roukos, Andrzej Sakrajda, Avi Sil, Rosario Uceda-Sosa, Todd Ward and Rong Zhang",long
+522,The Unstoppable Rise of Computational Linguistics in Deep Learning,James Henderson,long
+523,To Boldly Query What No One Has Annotated Before? The Frontiers of Corpus Querying,Markus Gärtner and Kerstin Jung,long
+524,"To Test Machine Comprehension, Start by Defining Comprehension","Jesse Dunietz, Greg Burnham, Akash Bharadwaj, Owen Rambow, Jennifer Chu-Carroll and Dave Ferrucci",long
+525,Toward Gender-Inclusive Coreference Resolution,Yang Trista Cao and Hal Daumé III,long
+526,Towards Conversational Recommendation over Multi-Type Dialogs,"Zeming Liu, Haifeng Wang, Zheng-Yu Niu, Hua Wu, Wanxiang Che and Ting Liu",long
+527,Towards Debiasing Sentence Representations,"Paul Pu Liang, Irene Mengze Li, Emily Zheng, Yao Chong Lim, Ruslan Salakhutdinov and Louis-Philippe Morency",long
+528,Towards Emotion-aided Multi-modal Dialogue Act Classification,"Tulika Saha, Aditya Patra, Sriparna Saha and Pushpak Bhattacharyya",long
+529,Towards Faithful Neural Table-to-Text Generation with Content-Matching Constraints,"Zhenyi Wang, Xiaoyang Wang, Bang An, Dong Yu and Changyou Chen",long
+530,Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation,"Bo Pang, Erik Nijkamp, Wenjuan Han, Linqi Zhou, Yixian Liu and Kewei Tu",long
+531,Towards Interpretable Clinical Diagnosis with Bayesian Network Ensembles Stacked on Entity-Aware CNNs,"Jun Chen, Xiaoya Dai, Quan Yuan, Chao Lu and Haifeng Huang",long
+532,Towards Robustifying NLI Models Against Lexical Dataset Biases,Xiang Zhou and Mohit Bansal,long
+533,Towards Transparent and Explainable Attention Models,"Akash Kumar Mohankumar, Preksha Nema, Sharan Narasimhan, Mitesh M. Khapra, Balaji Vasan Srinivasan and Balaraman Ravindran",long
+534,Towards Understanding Gender Bias in Relation Extraction,"Andrew Gaut, Tony Sun, Shirlyn Tang, Yuxin Huang, Jing Qian, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang and William Yang Wang",long
+535,Towards Unsupervised Language Understanding and Generation by Joint Dual Learning,"Shang-Yu Su, Chao-Wei Huang and Yun-Nung Chen",long
+536,Toxicity Detection: Does Context Really Matter?,"John Pavlopoulos, Jeffrey Sorensen, Lucas Dixon, Nithum Thain and Ion Androutsopoulos",long
+537,Transition-based Directed Graph Construction for Emotion-Cause Pair Extraction,"Chuang Fan, Chaofa Yuan, Jiachen Du, Lin Gui, Min Yang and Ruifeng Xu",long
+538,Transition-based Semantic Dependency Parsing with Pointer Networks,Daniel Fernández-González and Carlos Gómez-Rodríguez,long
+539,Translationese as a Language in “Multilingual” NMT,"Parker Riley, Isaac Caswell, Markus Freitag and David Grangier",long
+540,TransS-Driven Joint Learning Architecture for Implicit Discourse Relation Recognition,"Ruifang He, Jian Wang, Fengyu Guo and Yugui Han",long
+541,TVQA+: Spatio-Temporal Grounding for Video Question Answering,"Jie Lei, Licheng Yu, Tamara Berg and Mohit Bansal",long
+542,TXtract: Taxonomy-Aware Knowledge Extraction for Thousands of Product Categories,"Giannis Karamanolakis, Jun Ma and Xin Luna Dong",long
+543,Uncertainty-Aware Curriculum Learning for Neural Machine Translation,"Yikai Zhou, Baosong Yang, Derek F. Wong, Yu Wan and Lidia S. Chao",long
+544,Understanding Attention for Text Classification,Xiaobing Sun and Wei Lu,long
+545,Understanding the Language of Political Agreement and Disagreement in Legislative Texts,"Maryam Davoodi, Eric Waltenburg and Dan Goldwasser",long
+546,Universal Decompositional Semantic Parsing,"Elias Stengel-Eskin, Aaron Steven White, Sheng Zhang and Benjamin Van Durme",long
+547,Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification,"Guangfeng Yan, Lu Fan, Qimai Li, Han Liu, Xiaotong Zhang, Xiao-Ming Wu and Albert Y.S. Lam",long
+548,Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering,"Vikas Yadav, Steven Bethard and Mihai Surdeanu",long
+549,Unsupervised Cross-lingual Representation Learning at Scale,"Alexis Conneau, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle Ott, Luke Zettlemoyer and Veselin Stoyanov",long
+550,Unsupervised Domain Clusters in Pretrained Language Models,Roee Aharoni and Yoav Goldberg,long
+551,Unsupervised Dual Paraphrasing for Two-stage Semantic Parsing,"Ruisheng Cao, Su Zhu, Chenyu Yang, Chen Liu, Rao Ma, Yanbin Zhao, Lu Chen and Kai Yu",long
+552,Unsupervised Morphological Paradigm Completion,"Huiming Jin, Liwei Cai, Yihui Peng, Chen Xia, Arya McCarthy and Katharina Kann",long
+553,Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting,"Po-Yao Huang, Junjie Hu, Xiaojun Chang and Alexander Hauptmann",long
+554,Unsupervised Opinion Summarization as Copycat-Review Generation,"Arthur Bražinskas, Mirella Lapata and Ivan Titov",long
+555,Unsupervised Opinion Summarization with Noising and Denoising,Reinald Kim Amplayo and Mirella Lapata,long
+556,Unsupervised Paraphrasing by Simulated Annealing,"Xianggen Liu, Lili Mou, Fandong Meng, Hao Zhou, Jie Zhou and Sen Song",long
+557,USR: An Unsupervised and Reference Free Evaluation Metric for Dialog Generation,Shikib Mehri and Maxine Eskenazi,long
+558,Weight Poisoning Attacks on Pretrained Models,"Keita Kurita, Paul Michel and Graham Neubig",long
+559,What are the Goals of Distributional Semantics?,Guy Emerson,long
+560,What determines the order of adjectives in English? Comparing efficiency-based theories using dependency treebanks,"Richard Futrell, William Dyer and Greg Scontras",long
+561,What Question Answering can Learn from Trivia Nerds,Jordan Boyd-Graber and Benjamin Börschinger,long
+562,What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context,"Ramy Baly, Georgi Karadzhov, Jisun An, Haewoon Kwak, Yoan Dinkov, Ahmed Ali, James Glass and Preslav Nakov",long
+563,When do Word Embeddings Accurately Reflect Surveys on our Beliefs About People?,Kenneth Joseph and Jonathan Morgan,long
+564,"“Who said it, and Why?” Provenance for Natural Language Claims","Yi Zhang, Zachary Ives and Dan Roth",long
+565,WinoWhy: A Deep Diagnosis of Essential Commonsense Knowledge for Answering Winograd Schema Challenge,"Hongming Zhang, Xinran Zhao and Yangqiu Song",long
+566,Word-level Textual Adversarial Attacking as Combinatorial Optimization,"Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu and Maosong Sun",long
+567,XtremeDistil: Multi-stage Distillation for Massive Multilingual Models,Subhabrata Mukherjee and Ahmed Hassan Awadallah,long
+568,You Impress Me: Dialogue Generation via Mutual Persona Perception,"Qian Liu, Yihong Chen, Bei Chen, Jian-Guang Lou, Zixuan Chen, Bin Zhou and Dongmei Zhang",long
+569,Zero-shot Text Classification via Reinforced Self-training,"Zhiquan Ye, Yuxia Geng, Jiaoyan Chen, Jingmin Chen, Xiaoxiao Xu, Suhang Zheng, Feng Wang, Jun Zhang and Huajun Chen",long
+570,Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking,"Giovanni Campagna, Agata Foryciarz, Mehrad Moradshahi and Monica Lam",long
+571,ZeroShotCeres: Zero-Shot Relation Extraction from Semi-Structured Webpages,"Colin Lockard, Prashant Shiralkar, Xin Luna Dong and Hannaneh Hajishirzi",long
+572,long,long,long
+573,A Diverse Corpus for Evaluating and Developing English Math Word Problem Solvers,"Shen-yun Miao, Chao-Chun Liang and Keh-Yih Su",short
+574,A Frame-based Sentence Representation for Machine Reading Comprehension,"Shaoru Guo, Ru Li, Hongye Tan, Xiaoli Li, Yong Guan, Hongyan Zhao and Yueping Zhang",short
+575,A Large-Scale Multi-Document Summarization Dataset from the Wikipedia Current Events Portal,"Demian Gholipour Ghalandari, Chris Hokamp, Nghia The Pham, John Glover and Georgiana Ifrim",short
+576,A Multi-Perspective Architecture for Semantic Code Search,"Rajarshi Haldar, Lingfei Wu, JinJun Xiong and Julia Hockenmaier",short
+577,A negative case analysis of visual grounding methods for VQA,"Robik Shrestha, Kushal Kafle and Christopher Kanan",short
+578,A Probabilistic Generative Model for Typographical Analysis of Early Modern Printing,"Kartik Goyal, Chris Dyer, Christopher Warren, Maxwell G’Sell and Taylor Berg-Kirkpatrick",short
+579,A Re-evaluation of Knowledge Graph Completion Methods,"Zhiqing Sun, Shikhar Vashishth, Soumya Sanyal, Partha Talukdar and Yiming Yang",short
+580,A Relational Memory-based Embedding Model for Triple Classification and Search Personalization,"Dai Quoc Nguyen, Tu Nguyen and Dinh Phung",short
+581,A Relaxed Matching Procedure for Unsupervised BLI,"Xu Zhao, Zihao Wang, Yong Zhang and Hao Wu",short
+582,A Retrieve-and-Rewrite Initialization Method for Unsupervised Machine Translation,"Shuo Ren, Yu Wu, Shujie Liu, Ming Zhou and Shuai Ma",short
+583,A Simple and Effective Unified Encoder for Document-Level Machine Translation,"Shuming Ma, Dongdong Zhang and Ming Zhou",short
+584,A Tale of a Probe and a Parser,"Rowan Hall Maudslay, Josef Valvoda, Tiago Pimentel, Adina Williams and Ryan Cotterell",short
+585,A Three-Parameter Rank-Frequency Relation in Natural Languages,"Chenchen Ding, Masao Utiyama and Eiichiro Sumita",short
+586,A Transformer-based Approach for Source Code Summarization,"Wasi Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang",short
+587,A Two-Stage Masked LM Method for Term Set Expansion,"Guy Kushilevitz, Shaul Markovitch and Yoav Goldberg",short
+588,A Two-Step Approach for Implicit Event Argument Detection,"Zhisong Zhang, Xiang Kong, Zhengzhong Liu, Xuezhe Ma and Eduard Hovy",short
+589,Active Learning for Coreference Resolution using Discrete Annotation,"Belinda Z. Li, Gabriel Stanovsky and Luke Zettlemoyer",short
+590,An Empirical Comparison of Unsupervised Constituency Parsing Methods,"Jun Li, Yifan Cao, Jiong Cai, Yong Jiang and Kewei Tu",short
+591,Analyzing the Persuasive Effect of Style in News Editorial Argumentation,"Roxanne El Baff, Henning Wachsmuth, Khalid Al Khatib and Benno Stein",short
+592,Are we Estimating or Guesstimating Translation Quality?,"Shuo Sun, Francisco Guzmán and Lucia Specia",short
+593,Attend to Medical Ontologies: Content Selection for Clinical Abstractive Summarization,"Sajad Sotudeh Gharebagh, Nazli Goharian and Ross Filice",short
+594,Autoencoding Keyword Correlation Graph for Document Clustering,"Billy Chiu, Sunil Kumar Sahu, Derek Thomas, Neha Sengupta and Mohammady Mahdy",short
+595,Automated Topical Component Extraction Using Neural Network Attention Scores from Source-based Essay Scoring,Haoran Zhang and Diane Litman,short
+596,Automatic Machine Translation Evaluation using Source Language Inputs and Cross-lingual Language Model,"Kosuke Takahashi, Katsuhito Sudoh and Satoshi Nakamura",short
+597,Bayesian Hierarchical Words Representation Learning,"Oren Barkan, Idan Rejwan, Avi Caciularu and Noam Koenigstein",short
+598,Benefits of Intermediate Annotations in Reading Comprehension,"Dheeru Dua, Sameer Singh and Matt Gardner",short
+599,Camouflaged Chinese Spam Content Detection with Semi-supervised Generative Active Learning,"Zhuoren Jiang, Zhe Gao, Yu Duan, Yangyang Kang, Changlong Sun, Qiong Zhang and Xiaozhong Liu",short
+600,Character-Level Translation with Self-attention,"Yingqiang Gao, Nikola I. Nikolov, Yuhuang Hu and Richard H.R. Hahnloser",short
+601,ClarQ: A large-scale and diverse dataset for Clarification Question Generation,Vaibhav Kumar and Alan W Black,short
+602,Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction,"Mladen Karan, Ivan Vulić, Anna Korhonen and Goran Glavaš",short
+603,Clinical Concept Linking with Contextualized Neural Representations,"Elliot Schumacher, Andriy Mulyar and Mark Dredze",short
+604,Closing the Gap: Joint De-Identification and Concept Extraction in the Clinical Domain,"Lukas Lange, Heike Adel and Jannik Strötgen",short
+605,Coach: A Coarse-to-Fine Approach for Cross-domain Slot Filling,"Zihan Liu, Genta Indra Winata, Peng Xu and Pascale Fung",short
+606,"Code-switching patterns can be an effective route to improve performance of downstream NLP applications: A case study of humour, sarcasm and hate speech detection","Srijan Bansal, Vishal Garimella, Ayush Suhane, Jasabanta Patro and Animesh Mukherjee",short
+607,Composing Elementary Discourse Units in Abstractive Summarization,"Zhenwen Li, Wenhao Wu and Sujian Li",short
+608,Content Word Aware Neural Machine Translation,"Kehai Chen, Rui Wang, Masao Utiyama and Eiichiro Sumita",short
+609,Contextual Embeddings: When Are They Worth It?,"Simran Arora, Avner May, Jian Zhang and Christopher Ré",short
+610,Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns,"KayYen Wong, Sameen Maruf and Gholamreza Haffari",short
+611,Contextualized Sparse Representations for Real-Time Open-Domain Question Answering,"Jinhyuk Lee, Minjoon Seo, Hannaneh Hajishirzi and Jaewoo Kang",short
+612,Contextualizing Hate Speech Classifiers with Post-hoc Explanation,"Brendan Kennedy, Xisen Jin, Aida Mostafazadeh Davani, Morteza Dehghani and Xiang Ren",short
+613,Contrastive Self-Supervised Learning for Commonsense Reasoning,Tassilo Klein and Moin Nabi,short
+614,Controlled Crowdsourcing for High-Quality QA-SRL Annotation,"Paul Roit, Ayal Klein, Daniela Stepanov, Jonathan Mamou, Julian Michael, Gabriel Stanovsky, Luke Zettlemoyer and Ido Dagan",short
+615,Conversational Word Embedding for Retrieval-Based Dialog System,"Wentao Ma, Yiming Cui, Ting Liu, Dong Wang, Shijin Wang and Guoping Hu",short
+616,Crawling and Preprocessing Mailing Lists At Scale for Dialog Analysis,"Janek Bevendorff, Khalid Al Khatib, Martin Potthast and Benno Stein",short
+617,Crossing Variational Autoencoders for Answer Retrieval,"Wenhao Yu, Lingfei Wu, Qingkai Zeng, Shu Tao, Yu Deng and Meng Jiang",short
+618,DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference,"Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu and Jimmy Lin",short
+619,Designing Precise and Robust Dialogue Response Evaluators,"Tianyu Zhao, Divesh Lala and Tatsuya Kawahara",short
+620,Dialogue State Tracking with Explicit Slot Connection Modeling,"Yawen Ouyang, Moxin Chen, Xinyu Dai, Yinggong Zhao, Shujian Huang and Jiajun Chen",short
+621,Do Transformers Need Deep Long-Range Memory?,Jack Rae and Ali Razavi,short
+622,Do you have the right scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods,"Ning Miao, Yuxuan Song, Hao Zhou and Lei Li",short
+623,Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation,"Bei Li, Hui Liu, Ziyang Wang, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu and Changliang Li",short
+624,Don’t Eclipse Your Arts Due to Small Discrepancies: Boundary Repositioning with a Pointer Network for Aspect Extraction,"Zhenkai Wei, Yu Hong, Bowei Zou, Meng Cheng and Jianmin Yao",short
+625,Dscorer: A Fast Evaluation Metric for Discourse Representation Structure Parsing,"Jiangming Liu, Shay B. Cohen and Mirella Lapata",short
+626,Dynamic Memory Induction Networks for Few-Shot Text Classification,"Ruiying Geng, Binhua Li, Yongbin Li, Jian Sun and Xiaodan Zhu",short
+627,Dynamic Sampling Strategies for Multi-Task Reading Comprehension,"Ananth Gottumukkala, Dheeru Dua, Sameer Singh and Matt Gardner",short
+628,Dynamically Adjusting Transformer Batch Size by Monitoring Gradient Direction Change,"Hongfei Xu, Josef van Genabith, Deyi Xiong and Qiuhui Liu",short
+629,Efficient strategies for hierarchical text classification: external knowledge and auxiliary tasks,"Kervy Rivas Rojas, Gina Bustamante, Arturo Oncevay and Marco Antonio Sobrevilla Cabezudo",short
+630,Embarrassingly Simple Unsupervised Aspect Extraction,Stéphan Tulkens and Andreas van Cranenburgh,short
+631,Enabling Language Models to Fill in the Blanks,"Chris Donahue, Mina Lee and Percy Liang",short
+632,Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction,"Masahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki and Kentaro Inui",short
+633,ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation,"Lifu Tu, Richard Yuanzhe Pang, Sam Wiseman and Kevin Gimpel",short
+634,Enhancing Machine Translation with Dependency-Aware Self-Attention,Emanuele Bugliarello and Naoaki Okazaki,short
+635,Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention,"Yanzeng Li, Bowen Yu, Xue Mengge and Tingwen Liu",short
+636,Enriched In-Order Linearization for Faster Sequence-to-Sequence Constituent Parsing,Daniel Fernández-González and Carlos Gómez-Rodríguez,short
+637,Entity-Aware Dependency-Based Deep Graph Attention Network for Comparative Preference Classification,"Nianzu Ma, Sahisnu Mazumder, Hao Wang and Bing Liu",short
+638,Estimating Mutual Information Between Dense Word Embeddings,"Vitalii Zhelezniak, Aleksandar Savkov and Nils Hammerla",short
+639,Evaluating Dialogue Generation Systems via Response Selection,"Shiki Sato, Reina Akama, Hiroki Ouchi, Jun Suzuki and Kentaro Inui",short
+640,Evaluating Robustness to Input Perturbations for Neural Machine Translation,"Xing Niu, Prashant Mathur, Georgiana Dinu and Yaser Al-Onaizan",short
+641,Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks,"Yufeng Zhang, Xueli Yu, Zeyu Cui, Shu Wu, Zhongzhen Wen and Liang Wang",short
+642,ExpBERT: Representation Engineering with Natural Language Explanations,"Shikhar Murty, Pang Wei Koh and Percy Liang",short
+643,Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness,"Khalid Al Khatib, Michael Völske, Shahbaz Syed, Nikolay Kolyada and Benno Stein",short
+644,Exploring Content Selection in Summarization of Novel Chapters,"Faisal Ladhak, Bryan Li, Yaser Al-Onaizan and Kathy McKeown",short
+645,Fact-based Content Weighting for Evaluating Abstractive Summarisation,"Xinnuo Xu, Ondřej Dušek, Jingyi Li, Verena Rieser and Ioannis Konstas",short
+646,"Fatality Killed the Cat or: BabelPic, a Multimodal Dataset for Non-Concrete Concepts","Agostina Calabrese, Michele Bevilacqua and Roberto Navigli",short
+647,Few-Shot NLG with Pre-Trained Language Model,"Zhiyu Chen, Harini Eavani, Wenhu Chen, Yinyin Liu and William Yang Wang",short
+648,FLAT: Chinese NER Using Flat-Lattice Transformer,"Xiaonan Li, Hang Yan, Xipeng Qiu and Xuanjing Huang",short
+649,GAN-BERT: Generative Adversarial Learning for Robust Text Classification with a Bunch of Labeled Examples,"Danilo Croce, Giuseppe Castellucci and Roberto Basili",short
+650,Geometry-aware domain adaptation for unsupervised alignment of word embeddings,"Pratik Jawanpuria, Mayank Meghwanshi and Bamdev Mishra",short
+651,"Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?","Kobi Leins, Jey Han Lau and Timothy Baldwin",short
+652,Glyph2Vec: Learning Chinese Out-of-Vocabulary Word Embedding from Glyphs,"Hong-You Chen, SZ-HAN YU and Shou-de Lin",short
+653,GPT-too: A language-model-first approach for AMR-to-text generation,"Manuel Mager, Ramón Fernandez Astudillo, Tahira Naseem, Md Arafat Sultan, Young-Suk Lee, Radu Florian and Salim Roukos",short
+654,How Can We Accelerate Progress Towards Human-like Linguistic Generalization?,Tal Linzen,short
+655,Hypernymy Detection for Low-Resource Languages via Meta Learning,"Changlong Yu, Jialong Han, Haisong Zhang and Wilfred Ng",short
+656,Identifying Principals and Accessories in a Complex Case based on the Comprehension of Fact Description,"Yakun Hu, Zhunchen Luo and Wenhan Chao",short
+657,Implicit Discourse Relation Classification: We Need to Talk about Evaluation,"Najoung Kim, Song Feng, Chulaka Gunasekara and Luis Lastras",short
+658,Improved Speech Representations with Multi-Target Autoregressive Predictive Coding,Yu-An Chung and James Glass,short
+659,Improving Entity Linking through Semantic Reinforced Entity Embeddings,"Feng Hou, Ruili Wang, Jun He and Yi Zhou",short
+660,Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling,"Canasai Kruengkrai, Thien Hai Nguyen, Sharifah Mahani Aljunied and Lidong Bing",short
+661,Improving Non-autoregressive Neural Machine Translation with Monolingual Data,Jiawei Zhou and Phillip Keung,short
+662,Incorporating External Knowledge through Pre-training for Natural Language to Code Generation,"Frank F. Xu, Zhengbao Jiang, Pengcheng Yin, Bogdan Vasilescu and Graham Neubig",short
+663,Instance-Based Learning of Span Representations: A Case Study through Named Entity Recognition,"Hiroki Ouchi, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno and Kentaro Inui",short
+664,Interpretable Operational Risk Classification with Semi-Supervised Variational Autoencoder,"Fan Zhou, Shengming Zhang and Yi Yang",short
+665,Interpreting Twitter User Geolocation,"Ting Zhong, Tianliang Wang, Fan Zhou, Goce Trajcevski, Kunpeng Zhang and Yi Yang",short
+666,Is Your Classifier Actually Biased? Measuring Fairness under Uncertainty with Bernstein Bounds,Kawin Ethayarajh,short
+667,It’s Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information,"Emanuele Bugliarello, Sabrina J. Mielke, Antonios Anastasopoulos, Ryan Cotterell and Naoaki Okazaki",short
+668,Keyphrase Generation for Scientific Document Retrieval,"Florian Boudin, Ygor Gallina and Akiko Aizawa",short
+669,Knowledge Supports Visual Language Grounding: A Case Study on Colour Terms,Simeon Schüz and Sina Zarrieß,short
+670,Language-aware Interlingua for Multilingual Neural Machine Translation,"Changfeng Zhu, Heng Yu, Shanbo Cheng and Weihua Luo",short
+671,Learning an Unreferenced Metric for Online Dialogue Evaluation,"Koustuv Sinha, Prasanna Parthasarathi, Jasmine Wang, Ryan Lowe, William L. Hamilton and Joelle Pineau",short
+672,Learning Implicit Text Generation via Feature Matching,"Inkit Padhi, Pierre Dognin, Ke Bai, Cícero Nogueira dos Santos, Vijil Chenthamarakshan, Youssef Mroueh and Payel Das",short
+673,Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,"Yinpei Dai, Hangyu Li, Chengguang Tang, Yongbin Li, Jian Sun and Xiaodan Zhu",short
+674,Learning Robust Models for e-Commerce Product Search,"Thanh Nguyen, Nikhil Rao and Karthik Subbian",short
+675,Learning Spoken Language Representations with Neural Lattice Language Modeling,Chao-Wei Huang and Yun-Nung Chen,short
+676,Learning to Tag OOV Tokens by Integrating Contextual Representation and Background Knowledge,"Keqing He, Yuanmeng Yan and Weiran XU",short
+677,Learning to Understand Child-directed and Adult-directed Speech,"Lieke Gelderloos, Grzegorz Chrupała and Afra Alishahi",short
+678,Let Me Choose: From Verbal Context to Font Selection,"Amirreza Shirani, Franck Dernoncourt, Jose Echevarria, Paul Asente, Nedim Lipka and Thamar Solorio",short
+679,Leveraging Monolingual Data with Self-Supervision for Multilingual Neural Machine Translation,"Aditya Siddhant, Ankur Bapna, Yuan Cao, Orhan Firat, Mia Chen, Sneha Kudugunta, Naveen Arivazhagan and Yonghui Wu",short
+680,Lexically Constrained Neural Machine Translation with Levenshtein Transformer,"Raymond Hendy Susanto, Shamil Chollampatt and Liling Tan",short
+681,Lipschitz Constrained Parameter Initialization for Deep Transformers,"Hongfei Xu, Qiuhui Liu, Josef van Genabith, Deyi Xiong and Jingyi Zhang",short
+682,Logic-Guided Data Augmentation and Regularization for Consistent Question Answering,Akari Asai and Hannaneh Hajishirzi,short
+683,Low Resource Sequence Tagging using Sentence Reconstruction,"Tal Perl, Sriram Chaudhury and Raja Giryes",short
+684,Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations,"Oana-Maria Camburu, Brendan Shillingford, Pasquale Minervini, Thomas Lukasiewicz and Phil Blunsom",short
+685,Masking Actor Information Leads to Fairer Political Claims Detection,Erenay Dayanik and Sebastian Padó,short
+686,Meta-Transfer Learning for Code-Switched Speech Recognition,"Genta Indra Winata, Samuel Cahyawijaya, Zhaojiang Lin, Zihan Liu, Peng Xu and Pascale Fung",short
+687,Mitigating Gender Bias Amplification in Distribution by Posterior Regularization,"Shengyu Jia, Tao Meng, Jieyu Zhao and Kai-Wei Chang",short
+688,Modeling Label Semantics for Predicting Emotional Reactions,"Radhika Gaonkar, Heeyoung Kwon, Mohaddeseh Bastan, Niranjan Balasubramanian and Nathanael Chambers",short
+689,Modeling Long Context for Task-Oriented Dialogue State Generation,Jun Quan and Deyi Xiong,short
+690,Modeling Word Formation in English–German Neural Machine Translation,Marion Weller-Di Marco and Alexander Fraser,short
+691,MOOCCube: A Large-scale Data Repository for NLP Applications in MOOCs,"Jifan Yu, Gan Luo, Tong Xiao, Qingyang Zhong, Yuquan Wang, Wenzheng Feng, Junyi Luo, Chenyu Wang, Lei Hou, Juanzi Li, Zhiyuan Liu and Jie Tang",short
+692,Multimodal and Multiresolution Speech Recognition with Transformers,"Georgios Paraskevopoulos, Srinivas Parthasarathy, Aparna Khare and Shiva Sundaram",short
+693,Multimodal Quality Estimation for Machine Translation,"Shu Okabe, Frédéric Blain and Lucia Specia",short
+694,Multimodal Transformer for Multimodal Machine Translation,Shaowei Yao and Xiaojun Wan,short
+695,Named Entity Recognition as Dependency Parsing,"Juntao Yu, Bernd Bohnet and Massimo Poesio",short
+696,"Negated and Misprimed Probes for Pretrained Language Models: Birds Can Talk, But Cannot Fly",Nora Kassner and Hinrich Schütze,short
+697,Neural Graph Matching Networks for Chinese Short Text Matching,"Lu Chen, Yanbin Zhao, Boer Lv, Lesheng Jin, Zhi Chen, Su Zhu and Kai Yu",short
+698,Neural Temporal Opinion Modelling for Opinion Prediction on Twitter,"Lixing Zhu, Yulan He and Deyu Zhou",short
+699,Neural-DINF: A Neural Network based Framework for Measuring Document Inﬂuence,"Jie Tan, Changlin Yang, Ying Li, Siliang Tang, Chen Huang and Yueting Zhuang",short
+700,Non-Linear Instance-Based Cross-Lingual Mapping for Non-Isomorphic Embedding Spaces,Goran Glavaš and Ivan Vulić,short
+701,“None of the Above”: Measure Uncertainty in Dialog Response Retrieval,"Yulan Feng, Shikib Mehri, Maxine Eskenazi and Tiancheng Zhao",short
+702,"On Exposure Bias, Hallucination and Domain Shift in Neural Machine Translation",Chaojun Wang and Rico Sennrich,short
+703,On Forgetting to Cite Older Papers: An Analysis of the ACL Anthology,Marcel Bollmann and Desmond Elliott,short
+704,On Importance Sampling-Based Evaluation of Latent Language Models,"Robert L Logan IV, Matt Gardner and Sameer Singh",short
+705,On the Importance of Diversity in Question Generation for QA,"Md Arafat Sultan, Shubham Chandel, Ramón Fernandez Astudillo and Vittorio Castelli",short
+706,On the Spontaneous Emergence of Discrete and Compositional Signals,"Nur Geffen Lan, Emmanuel Chemla and Shane Steinert-Threlkeld",short
+707,OpinionDigest: A Simple Framework for Opinion Summarization,"Yoshihiko Suhara, Xiaolan Wang, Stefanos Angelidis and Wang-Chiew Tan",short
+708,Opportunistic Decoding with Timely Correction for Simultaneous Translation,"Renjie Zheng, Mingbo Ma, Baigong Zheng, Kaibo Liu and Liang Huang",short
+709,Overestimation of Syntactic Representation in Neural Language Models,Jordan Kodner and Nitish Gupta,short
+710,Parallel Data Augmentation for Formality Style Transfer,"Yi Zhang, Tao Ge and Xu SUN",short
+711,Parallel Sentence Mining by Constrained Decoding,"Pinzhen Chen, Nikolay Bogoychev, Kenneth Heafield and Faheem Kirefu",short
+712,Posterior Calibrated Training on Sentence Classification Tasks,"Taehee Jung, Dongyeop Kang, Hua Cheng, Lucas Mentch and Thomas Schaaf",short
+713,Predicting Degrees of Technicality in Automatic Terminology Extraction,"Anna Hätty, Dominik Schlechtweg, Michael Dorna and Sabine Schulte im Walde",short
+714,Pretrained Transformers Improve Out-of-Distribution Robustness,"Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan and Dawn Song",short
+715,Quantifying Attention Flow in Transformers,Samira Abnar and Willem Zuidema,short
+716,Query Graph Generation for Answering Multi-hop Complex Questions from Knowledge Bases,Yunshi Lan and Jing Jiang,short
+717,R4C: A Benchmark for Evaluating RC Systems to Get the Right Answer for the Right Reason,"Naoya Inoue, Pontus Stenetorp and Kentaro Inui",short
+718,Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models,"Maarten Sap, Eric Horvitz, Yejin Choi, Noah A. Smith and James Pennebaker",short
+719,Recursive Template-based Frame Generation for Task Oriented Dialog,Rashmi Gangadharaiah and Balakrishnan Narayanaswamy,short
+720,Regularized Context Gates on Transformer for Machine Translation,"Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng",short
+721,Relation Extraction with Explanation,"Hamed Shahbazi, Xiaoli Fern, Reza Ghaeini and Prasad Tadepalli",short
+722,Representations of Syntax [MASK] Useful: Effects of Constituency and Dependency Structure in Recursive LSTMs,"Michael Lepori, Tal Linzen and R. Thomas McCoy",short
+723,Returning the N to NLP: Towards Contextually Personalized Classification Models,Lucie Flek,short
+724,Reverse Engineering Configurations of Neural Text Generation Models,"Yi Tay, Dara Bahri, Che Zheng, Clifford Brunk, Donald Metzler and Andrew Tomkins",short
+725,Revisiting Higher-Order Dependency Parsers,Erick Fonseca and André F. T. Martins,short
+726,Revisiting Unsupervised Relation Extraction,"Thy Thy Tran, Phong Le and Sophia Ananiadou",short
+727,SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions,"Mao Ye, Chengyue Gong and Qiang Liu",short
+728,Self-Attention Guided Copy Mechanism for Abstractive Summarization,"Song Xu, Haoran Li, Peng Yuan, Youzheng Wu, Xiaodong He and Bowen Zhou",short
+729,Self-Attention with Cross-Lingual Position Representation,"Liang Ding, Longyue Wang and Dacheng Tao",short
+730,Sentence Meta-Embeddings for Unsupervised Semantic Textual Similarity,"Nina Poerner, Ulli Waltinger and Hinrich Schütze",short
+731,Shape of synth to come: Why we should use synthetic data for English surface realization,"Henry Elder, Robert Burke, Alexander O’Connor and Jennifer Foster",short
+732,Shaping Visual Representations with Language for Few-Shot Classification,"Jesse Mu, Percy Liang and Noah Goodman",short
+733,Showing Your Work Doesn’t Always Work,"Raphael Tang, Jaejun Lee, Ji Xin, Xinyu Liu, Yaoliang Yu and Jimmy Lin",short
+734,Simple and Effective Retrieve-Edit-Rerank Text Generation,"Nabil Hossain, Marjan Ghazvininejad and Luke Zettlemoyer",short
+735,Simultaneous Translation Policies: From Fixed to Adaptive,"Baigong Zheng, Kaibo Liu, Renjie Zheng, Mingbo Ma, Hairong Liu and Liang Huang",short
+736,Single Model Ensemble using Pseudo-Tags and Distinct Vectors,"Ryosuke Kuwabara, Jun Suzuki and Hideki Nakayama",short
+737,Smart To-Do: Automatic Generation of To-Do Items from Emails,"Sudipto Mukherjee, Subhabrata Mukherjee, Marcello Hasegawa, Ahmed Hassan Awadallah and Ryen White",short
+738,Social Biases in NLP Models as Barriers for Persons with Disabilities,"Ben Hutchinson, Vinodkumar Prabhakaran, Emily Denton, Kellie Webster, Yu Zhong and Stephen Denuyl",short
+739,Soft Gazetteers for Low-Resource Named Entity Recognition,"Shruti Rijhwani, Shuyan Zhou, Graham Neubig and Jaime Carbonell",short
+740,Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations,"Samuel Coope, Tyler Farghly, Daniela Gerz, Ivan Vulić and Matthew Henderson",short
+741,Stolen Probability: A Structural Weakness of Neural Language Models,"David Demeter, Gregory Kimmel and Doug Downey",short
+742,Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture,"Christopher Brix, Parnia Bahar and Hermann Ney",short
+743,SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization,"Yang Gao, Wei Zhao and Steffen Eger",short
+744,Supervised Grapheme-to-Phoneme Conversion of Orthographic Schwas in Hindi and Punjabi,"Aryaman Arora, Luke Gessler and Nathan Schneider",short
+745,Syntactic Data Augmentation Increases Robustness to Inference Heuristics,"Junghyun Min, R. Thomas McCoy, Dipanjan Das, Emily Pitler and Tal Linzen",short
+746,Tagged Back-translation Revisited: Why Does It Really Work?,"Benjamin Marie, Raphael Rubino and Atsushi Fujita",short
+747,tBERT: Topic Models and BERT Joining Forces for Semantic Similarity Detection,"Nicole Peinelt, Dong Nguyen and Maria Liakata",short
+748,Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering,"Alexander Fabbri, Patrick Ng, Zhiguo Wang, Ramesh Nallapati and Bing Xiang",short
+749,Tetra-Tagging: Word-Synchronous Parsing with Linear-Time Inference,Nikita Kitaev and Dan Klein,short
+750,Text Classification with Negative Supervision,"Sora Ohashi, Junya Takayama, Tomoyuki Kajiwara, Chenhui Chu and Yuki Arase",short
+751,To Pretrain or Not to Pretrain: Examining the Benefits of Pretrainng on Resource Rich Tasks,"Sinong Wang, Madian Khabsa and Hao Ma",short
+752,Topological Sort for Sentence Ordering,"Shrimai Prabhumoye, Ruslan Salakhutdinov and Alan W Black",short
+753,Toward Better Storylines with Sentence-Level Language Models,"Daphne Ippolito, David Grangier, Douglas Eck and Chris Callison-Burch",short
+754,Towards Better Non-Tree Argument Mining: Proposition-Level Biaffine Parsing with Task-Specific Parameterization,"Gaku Morio, Hiroaki Ozaki, Terufumi Morishita, Yuta Koreeda and Kohsuke Yanai",short
+755,Towards end-2-end learning for predicting behavior codes from spoken utterances in psychotherapy conversations,"Karan Singla, Zhuohao Chen, David Atkins and Shrikanth Narayanan",short
+756,Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?,Alon Jacovi and Yoav Goldberg,short
+757,Towards Open Domain Event Trigger Identification using Adversarial Domain Adaptation,Aakanksha Naik and Carolyn Rose,short
+758,Transformers to Learn Hierarchical Contexts in Multiparty Dialogue for Span-based Question Answering,Changmao Li and Jinho D. Choi,short
+759,Treebank Embedding Vectors for Out-of-domain Dependency Parsing,"Joachim Wagner, James Barry and Jennifer Foster",short
+760,Tree-Structured Neural Topic Model,"Masaru Isonuma, Junichiro Mori, Danushka Bollegala and Ichiro Sakata",short
+761,TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition,"Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar and Xiang Ren",short
+762,"Two Birds, One Stone: A Simple, Unified Model for Text Generation from Structured and Unstructured Data","Hamidreza Shahidi, Ming Li and Jimmy Lin",short
+763,Uncertain Natural Language Inference,"Tongfei Chen, Zhengping Jiang, Adam Poliak, Keisuke Sakaguchi and Benjamin Van Durme",short
+764,Understanding Advertisements with BERT,"Kanika Kalra, Bhargav Kurma, Silpa Vadakkeeveetil Sreelatha, Manasi Patwardhan and Shirish Karande",short
+765,Unsupervised FAQ Retrieval with Question Generation and BERT,"Yosi Mass, Boaz Carmeli, Haggai Roitman and David Konopnicki",short
+766,Using Context in Neural Machine Translation Training Objectives,"Danielle Saunders, Felix Stahlberg and Bill Byrne",short
+767,Variational Neural Machine Translation with Normalizing Flows,"Hendra Setiawan, Matthias Sperber, Udhyakumar Nallasamy and Matthias Paulik",short
+768,Verbal Multiword Expressions for Identification of Metaphor,"Omid Rohanian, Marek Rei, Shiva Taslimipoor and Le An Ha",short
+769,Video-Grounded Dialogues with Pretrained Generation Language Models,Hung Le and Steven C.H. Hoi,short
+770,What Does BERT with Vision Look At?,"Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh and Kai-Wei Chang",short
+771,What is Learned in Visually Grounded Neural Syntax Acquisition,"Noriyuki Kojima, Hadar Averbuch-Elor, Alexander Rush and Yoav Artzi",short
+772,Why Overfitting Isn’t Always Bad: Retrofitting Cross-Lingual Word Embeddings to Dictionaries,"Mozhi Zhang, Yoshinari Fujinuma, Michael J. Paul and Jordan Boyd-Graber",short
+773,Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter,"Costanza Conforti, Jakob Berndt, Mohammad Taher Pilehvar, Chryssi Giannitsarou, Flavio Toxvaerd and Nigel Collier",short
+774,"Words aren’t enough, their order matters: On the Robustness of Grounding Visual Referring Expressions","Arjun Akula, Spandana Gella, Yaser Al-Onaizan, Song-Chun Zhu and Siva Reddy",short
+775,"Worse WER, but Better BLEU? Leveraging Word Embedding as Intermediate in Multitask End-to-End Speech Translation","Shun-Po Chuang, Tzu-Wei Sung, Alexander H. Liu and Hung-yi Lee",short
+776,Would you Rather? A New Benchmark for Learning Machine Alignment with Cultural Values and Social Preferences,"Yi Tay, Donovan Ong, Jie Fu, Alvin Chan, Nancy Chen, Anh Tuan Luu and Chris Pal",short
+777,You Don’t Have Time to Read This: An Exploration of Document Reading Time Prediction,"Orion Weller, Jordan Hildebrandt, Ilya Reznik, Christopher Challis, E. Shannon Tass, Quinn Snell and Kevin Seppi",short
+778,``You Sound Just Like Your Father’’ Commercial Machine Translation Systems Include Stylistic Biases,"Dirk Hovy, Federico Bianchi and Tommaso Fornaciari",short
+779,ZPR2: Joint Zero Pronoun Recovery and Resolution using Multi-Task Learning and BERT,"Linfeng Song, Kun Xu, Yue Zhang, Jianshu Chen and Dong Yu",short

@@ -1,8 +1,12 @@
 # ACL2020-Paper-Code-Blog
 
-ACL2020 的论文、代码和博客。
+🗂 ACL2020 的论文、代码和博客。
 
 > ⚠️ ACL2020 所有接受的[「论文列表」](https://acl2020.org/program/accepted/)已经放出！！！
+
+我将所有接受的论文列表整理成了[「表格形式」](./acl2020-accepted-paper-list.csv)，预览如下：
+
+![](papers-csv-preview.png)
 
 ## 1 接受的论文列表
 
