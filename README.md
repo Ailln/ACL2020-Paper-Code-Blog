@@ -60,7 +60,7 @@
 
 - Logical Natural Language Generation from Open-Domain Tables [\[Paper\]](https://arxiv.org/abs/2004.10404) [\[Code\]](https://github.com/wenhuchen/LogicNLG)
 
-## 摘要提取
+### 摘要提取
 
 - A Discourse-Aware Neural Extractive Model for Text Summarization [\[Paper\]](http://www.cs.utexas.edu/~jcxu/material/ACL20/DiscoBERT_ACL2020.pdf) [\[Code\]](https://github.com/jiacheng-xu/DiscoBERT)
 - Heterogeneous Graph Neural Networks for Extractive Document Summarization [\[Paper\]](https://arxiv.org/abs/2004.12393) [\[Code\]](https://github.com/brxx122/HeterSumGraph)
