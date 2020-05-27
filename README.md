@@ -108,14 +108,6 @@
 
 - Improving Segmentation for Technical Support Problems [\[Code\]](https://github.com/kushalchauhan98/ticket-segmentation)
 
-## 2 未接受的论文列表
-
-未被接受并不表面工作没有意义，也可能是不幸运！
-
-- BP-Transformer: Modelling Long-Range Context via Binary Partitioning [\[Paper\]](https://arxiv.org/abs/1911.04070) [\[Code\]](https://github.com/yzh119/BPT) [\[Blog\]](https://www.zhihu.com/question/371534652/answer/1016231768)
-
-## 3 暂不确定的论文列表
-
 - AMR Parsing with Latent Structural Information [\[Code\]](https://github.com/zhouqiji/ACL2020_AMR_Parsing)
 
 - From Zero to Hero: Human-In-The-Loop Entity Linking in Low Resource Domains [\[Code\]](https://github.com/UKPLab/acl2020-interactive-entity-linking)
@@ -130,13 +122,13 @@
 
 - Will-They-Won’t-They: A Very Large Dataset for Stance Detection on Twitter [Paper\]](https://arxiv.org/abs/2005.00388) [\[Code\]](https://github.com/cambridge-wtwt/acl2020-wtwt-tweets)
 
-- Semi-supervised Contextual Historical Text Normalization" by Peter Makarov and Simon Clematide [\[Code\]](https://github.com/ZurichNLP/acl2020-historical-text-normalization)
+- Semi-supervised Contextual Historical Text Normalization [\[Code\]](https://github.com/ZurichNLP/acl2020-historical-text-normalization)
 
 - Empowering Active Learning to Jointly Optimize System and User Demands [Paper\]](https://arxiv.org/abs/2005.04470) [\[Code\]](https://github.com/UKPLab/acl2020-empowering-active-learning)
 
 - Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention [\[Code\]](https://github.com/lsvih/MWA)
 
-- Refer360° A Referring Expression Recognition Dataset in 360°Images [\[Code\]](https://github.com/volkancirik/refer360)
+- Refer360°: A Referring Expression Recognition Dataset in 360°Images [\[Code\]](https://github.com/volkancirik/refer360)
 
 - Tree-Structured Neural Topic Model [\[Code\]](https://github.com/misonuma/tsntm)
 
@@ -146,7 +138,13 @@
 
 - Fact-based Content Weighting for Evaluating Abstractive Summarisation [\[Code\]](https://github.com/XinnuoXu/Human_eva)
 
-## 4 相关资料
+## 2 未接受的论文列表
+
+未被接受并不表面工作没有意义，也可能是不幸运！
+
+- BP-Transformer: Modelling Long-Range Context via Binary Partitioning [\[Paper\]](https://arxiv.org/abs/1911.04070) [\[Code\]](https://github.com/yzh119/BPT) [\[Blog\]](https://www.zhihu.com/question/371534652/answer/1016231768)
+
+## 3 相关资料
 
 - [ACL2020 官网](https://acl2020.org/)
 - [ACL 2020程序委员会博客（中文版）](https://github.com/ymcui/ACL2020-PC-Blogs-Chinese)
