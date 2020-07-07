@@ -2,11 +2,16 @@
 
 🗂 ACL2020 的论文、代码和博客。
 
-> ⚠️ ACL2020 所有接受的[「论文列表」](https://acl2020.org/program/accepted/)已经放出！！！
+> ⚠️ ACL2020 所有接受的[「论文列表」](https://acl2020.org/program/accepted/)已经放出！！我将所有接受的论文列表整理成了[「表格形式」](./acl2020-accepted-paper-list.csv)，预览如下：
 
-我将所有接受的论文列表整理成了[「表格形式」](./acl2020-accepted-paper-list.csv)，预览如下：
+![](./papers-csv-preview.png)
 
-![](papers-csv-preview.png)
+## 时间检验奖
+
+- 【1995】Centering: A Framework for Modeling the Local Coherence of Discourse.[\[Paper\]](https://www.aclweb.org/anthology/J95-2003.pdf)
+- 【1995】Unsupervised Word Sense Disambiguation Rivaling Supervised Methods.[\[Paper\]](https://www.aclweb.org/anthology/P95-1026.pdf)
+- 【2010】Distributional Memory: A General Framework for Corpus-based Semantics.[\[Paper\]](https://www.mitpressjournals.org/doi/pdf/10.1162/coli_a_00016)
+- 【2010】Word Representations: A Simple and General Method for Semi-supervised Learning.[\[Paper\]](https://www.aclweb.org/anthology/P10-1040.pdf)
 
 ## 1 接受的论文列表
 
